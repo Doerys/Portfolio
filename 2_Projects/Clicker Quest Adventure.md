@@ -29,4 +29,4 @@ This project was also an opportunity to discover time management tools such as *
 To ensure a juicy and enjoyable experience, I learned how to implement **UI Animation**, **visual and sound effects**, which allowed me to add a lot of feedback.
 
 ## More About This Projet
-[https://maerys.itch.io/idle-quest-adventure](Itch.io page if you want to test this game!)
+[Itch.io page if you want to test this game!](https://maerys.itch.io/idle-quest-adventure)
