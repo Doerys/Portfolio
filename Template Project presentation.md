@@ -1,4 +1,4 @@
-#Nom du jeu
+# Nom du jeu
 > Où (événement, studio, école etc...)
 > Quoi (type de projet, dans quel cadre, année, durée)
 > Moteur, Langage de programmation
@@ -7,22 +7,22 @@
 
 Illu / concept du projet
 
-##Context
+## Context
 Rappeler dans des phrases le contexte (où, type de projet), l'étendue du projet.
 
 Pitcher rapidement le concept du jeu.
 
 Décrire l'étendue du jeu. 
 
-##What I Did
+## What I Did
 
-###Nom de la casquette 1
+### Nom de la casquette 1
 
-###Nom de la casquette 2
+### Nom de la casquette 2
 
-###Nom de la casquette 3
+### Nom de la casquette 3
 
-##What I Learned
+## What I Learned
 
-##More About This Projet
+## More About This Projet
 Mettre des liens d'accès vers des vidéos, la page itch.io, etc...
