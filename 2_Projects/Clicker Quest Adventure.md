@@ -1,10 +1,7 @@
 # Nom du jeu
 > Esma - Rennes
-> 
 > Student Project - 2024 - 1 Month
->
 > Unity - C#
->
 > Solo project
 
 Illu / concept du projet
