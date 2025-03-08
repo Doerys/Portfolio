@@ -2,11 +2,24 @@
 Welcome on my Github page!
 
 ## I'm Yann Chatila
-I'm a student specialized in **Game Design & Programming** from Rennes, France, since 2022.
+I'm a student specializing in **Game Design and Programming**. 
 
-I have an interest in Video Games medias since my childhood, and started my **first Game creation projects in 2021**, alongside my Cinema studies at Paris.
+I started creating my own video games projects in **2021** alongside **Cinema and audiovisual studies** in Paris. I then embarked on a 3-year course in video games, at Esma, located in Rennes, France.
+
+My main skills are geared towards **Game Design**: I love to create concepts and interesting experiences for players using the **Situation Design, MDA and Flow Model frameworks**. 
+
+I’ve also developed a real interest in Programming, enabling me to prototype my ideas directly on game engines. Various projects have enabled me to acquire skills in **Gameplay and UI / UX Programming**, notably on **Unity with C#** and on **Unreal Engine using Blueprints**. I’m also capable of prototyping using Javascript on Phaser game engine.
+
+More generally, I’m very curious and motivated to learn about a wide variety of subjects that can help me express my creativity in my projects, such as Level Design, storytelling, voice acting, art and video creation.
+
+I'm used to playing a leadership role or an important part in team projects. My **organizational skills** are generally an asset when it comes to meetings, planning and project management tools. I'm comfortable **expressing my ideas clearly**, whether in meetings, oral presentations or documentation.
 
 ## Here you can find:
+
+- My Resume/Cv
+- A list of my skills
+- A review of my projects
+- A list of the things (VideoGames, Movies, etc..) I like if you really want to know me!
 
 ## Contact me
 You can reach me if you want:
