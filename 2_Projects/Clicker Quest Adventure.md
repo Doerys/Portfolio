@@ -1,4 +1,4 @@
-# Nom du jeu
+# Clicker Quest Adventure
 > Esma - Rennes
 >
 > Student Project - 2024 - 1 Month
