@@ -1,7 +1,7 @@
 # Tick...
 > Esma - Rennes
 >
-> Student Project - 2024 - 1 Month
+> Student Project - 2024 - 2 Months
 >
 > Unity - C#
 > 
