@@ -1,6 +1,6 @@
-## Level Design Projects
+# Level Design Projects
 
-### Garden’s Keeper
+## Garden’s Keeper
 
 > Esma - Rennes
 >
@@ -22,7 +22,7 @@ Programming Oriented Presentation
 Level Design pre-production document (in French)
 Itch.io page if you want to test this game!
 
-### G-Complex
+## G-Complex
 
 > Esma - Rennes
 >
@@ -40,7 +40,7 @@ If you are interest to reach more about this project:
 
 Level Design document (in French)
 
-### The Golden Harbor
+## The Golden Harbor
 
 > Esma - Rennes
 >
@@ -59,7 +59,7 @@ The design of Golden Harbor enabled me to develop my **3D level design skills** 
 If you are interest to reach more about this project: 
 Video - Walkthrough with commentary (in French)
 
-### Battle For Olympus
+## Battle For Olympus
 
 > Esma - Rennes
 >
