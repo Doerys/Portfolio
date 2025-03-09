@@ -17,3 +17,11 @@ If you are interest to reach more about this project:
 Programming Oriented Presentation
 Level Design pre-production document (in French)
 Itch.io page if you want to test this game!
+
+### G-Complex
+
+> Esma - Rennes
+>
+> Student Project - 2023 - 1 Month
+>
+> Solo project
