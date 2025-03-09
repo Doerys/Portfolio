@@ -62,18 +62,20 @@ Video - Walkthrough with commentary
 ### Battle For Olympus
 
 > Esma - Rennes
-> 
+>
 > Student Project - 2024 - 3 Months
-> 
+>
 > Unreal Tournament Editor
-> 
+>
 > Solo Project
 
-This 2nd-year student project was my first **3D level design project**. The goal was to create a level at the blocking stage and make navigation interesting, while giving a sense of scale by using different volume proportions.
+Battle For Olympus is a second-year student project using Unreal Tournament 4's map editor to create a completely new level within the original game. It's a capture-the-flag map, pitting teams of 10 players against each other.
 
-The Golden Harbor is an **Unreal Engine’s level**, where the player takes on the role of a pirate crossing a harbor to reach the top of a building hiding a treasure. 
+Working on this project has enabled me to improve my skills on blocking level design using Unreal Engine’s tools. But more than that, I was able to learn more about PvP and FPS gameplay-oriented level design. I also familiarize myself with the iterative process of level design while keeping a written record of this process, by creating a production document detailing my workflow.
 
-The design of Golden Harbor enabled me to develop my **3D level design skills** and become familiar with the Unreal Engine tools used in blocking, such as **BSP Brushes** and the **Modeling Mode**. It was also the opportunity to learn more about **Lights** in Unreal, but also how to place them correctly in order to lead the player’s navigation through the level. Finally, I learned the basics of the **Post Process Volume**, enabling me to create a foggy atmosphere.
+The project also provided an opportunity to learn more about Unreal Engine features such as Landscape Mode, Exponential Height Fog and Lights.
 
 If you are interest to reach more about this project: 
+Video - Production Document
 Video - Walkthrough with commentary
+Video - Full Match
