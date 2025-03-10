@@ -42,6 +42,8 @@ Emphasis was also placed on time management, as the game was time-limited. I cre
 
 I was in charge of the Level Design, arranging the Escape Room elements to create both an **intuitive sequence of puzzles** for the player and a **credible environment**.
 
+![LeveLDesign](Pictures/LevelDesign_Tick.png)
+
 #### Lights
 
 As with the 3D implementation, there was a gap in the integration of light, which I tried to fill by placing and adjusting the **lights and post-processing volume** myself, to create a dark, oppressive environment. There's still room for improvement, as the environment remains too dark, making it difficult for the player to see the environment well enough to solve certain puzzles.
