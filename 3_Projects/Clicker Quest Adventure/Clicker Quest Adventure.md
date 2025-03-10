@@ -1,6 +1,6 @@
 # Clicker Quest Adventure
 
-> Esma - Rennes  
+> ESMA - Rennes  
 > Student Project - 2024 - 1 Month  
 > Unity - C#  
 > Solo project

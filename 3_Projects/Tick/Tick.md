@@ -1,10 +1,10 @@
 # Tick...
 
-> Esma - Rennes  
+> ESMA - Rennes  
 > Student Project - 2024 - 2 Months  
 > Unity - C#  
 > Team of 5  
-> Gameplay Programmer  
+> Game Designer, Gameplay Programmer, Level Designer  
 
 ![Banner](Pictures/Banner.png)
 
@@ -34,15 +34,15 @@ Emphasis was also placed on time management, as the game was time-limited. I cre
 
 ### Others
 
-#### 3D Assets Implementation
-
-3D artists' shortcomings in implementing 3D assets in Unity put me in charge of **implementing Meshes and Materials** into the game engine. 
-
 #### Level Designer
 
 I was in charge of the Level Design, arranging the Escape Room elements to create both an **intuitive sequence of puzzles** for the player and a **credible environment**.
 
 ![LeveLDesign](Pictures/LevelDesign_Tick.png)
+
+#### 3D Assets Implementation
+
+3D artists' shortcomings in implementing 3D assets in Unity put me in charge of **implementing Meshes and Materials** into the game engine. 
 
 #### Lights
 
