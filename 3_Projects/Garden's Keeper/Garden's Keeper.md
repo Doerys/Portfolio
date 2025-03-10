@@ -21,7 +21,7 @@ This project was a very stimulating experience that challenged my game design sk
 
 Even though the programming architecture is a step down from my current programming skills (there is a 2709 lines script file...), this project was a great step forward in improving my programming skills at the time. It was very instructive on **3C and AI programming** and on **data transmission between scenes**.
 
-[Gameplay](Gifs/Gameplay.gif)
+![Gameplay](Gifs/Gameplay.gif)
 
 In addition, this project was an opportunity to improve my **level designs**, **UI art** and **pixel art skills**. I invite you to click on the links below if you'd like to find out more!
 
