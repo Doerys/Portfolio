@@ -1,9 +1,9 @@
 # Garden’s Keeper
 
-> Esma - Rennes
-> Student Project - 2023 - 2 Months
-> Phaser 3 - Javascript
-> Solo Project
+> ESMA - Rennes  
+> Student Project - 2023 - 2 Months  
+> Phaser 3 - Javascript  
+> Solo Project  
 
 ![Banner](Pictures/Banner.png)
 
