@@ -5,7 +5,7 @@
 > Phaser 3 - Javascript
 > Solo Project
 
-Illu / concept du projet
+![Banner](Pictures/Banner.gif)
 
 ## Context
 
