@@ -57,8 +57,8 @@ This school project was produced as part of a narratology course. The goal was t
 
 If you are interest to reach more about this project: 
 
-[Scenario document (in french)](Documents/ScenarioTRPG_L'echappee Du Red Phoenix.pdf)
-[L’Etoile d’A’lanir, the short story that inspired this scenario (in french)](Documents/ShortStory_L'Etoile d'A'lanir.pdf)
+[Scenario document (in french)](Documents/ScenarioTRPGL'echappeeDuRedPhoenix.pdf)
+[L’Etoile d’A’lanir, the short story that inspired this scenario (in french)](Documents/ShortStory_L'Etoiled'A'lanir.pdf)
 
 ## Jiveh Deha - Yoha Vhayhe Civilization
 
