@@ -68,6 +68,6 @@ Working on this project has enabled me to improve my skills on blocking level de
 The project also provided an opportunity to learn more about Unreal Engine features such as Landscape Mode, Exponential Height Fog and Lights.
 
 ### If you are interest to reach more about this project: 
-[Production Document (in french))](Documents/BattleForOlympus_LevelDesignDocument.pdf)
+[Production Document (in french))](Documents/BattleForOlympus_LevelDesignDocument.pdf)  
 [Video - Walkthrough with commentary (in french))](https://youtu.be/CUc7tQvNdik)  
 [Video - Full Match](https://youtu.be/cGsnamamYLk)  
