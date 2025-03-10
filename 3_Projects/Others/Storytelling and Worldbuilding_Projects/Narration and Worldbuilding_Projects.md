@@ -49,8 +49,6 @@ If you are interest to reach more about this project:
 > T-RPG Scenario  
 > Solo Project
 
-![Banner](Pictures/Banner_ScenarioTRPG.png)
-
 L’échappée du Red Phoenix is a 4 hours T-RPG scenario taking place in a space opera universe, where the players have to escape the spaceship in which they are prisoners. This scenario includes exploration, fights, puzzles, infiltrations and social interactions.
 
 This school project was produced as part of a narratology course. The goal was to create a T-RPG scenario inspired by a short story written earlier in the year. At the time, I was used to the exercise of creating T-RPG scenarios, the game mastering and practice of T-RPGs being one of my main hobbies. But this project was a real interesting challenge, because of the constraints involved and the need to create a professional-quality document.
