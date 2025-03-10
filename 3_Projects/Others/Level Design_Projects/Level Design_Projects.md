@@ -15,9 +15,9 @@ I made the level design on **Tiled**, a 2D level design program compatible with 
 
 If you are interest to reach more about this project: 
 
-Game Design & Programming Oriented Presentation
-Level Design pre-production document (in French)
-Itch.io page if you want to test this game!
+Game Design & Programming Oriented Presentation  
+Level Design pre-production document (in French)  
+Itch.io page if you want to test this game!  
 
 ## G-Complex
 
