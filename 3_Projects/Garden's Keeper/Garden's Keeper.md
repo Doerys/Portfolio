@@ -27,7 +27,7 @@ In addition, this project was an opportunity to improve my **level designs**, **
 
 ## More About This Projet
 
-Itch.io page if you want to test this game!
-Level Design Oriented Presentation
-UI Art Oriented Presentation
-2D Art Oriented Presentation
+[Itch.io page if you want to test this game!](https://maerys.itch.io/gardens-keeper)  
+[Level Design Oriented Presentation](https://github.com/Doerys/Portfolio/blob/main/3_Projects/Others/Level%20Design_Projects/Level%20Design_Projects.md#gardens-keeper)  
+UI Art Oriented Presentation (later)  
+2D Art Oriented Presentation (later)  
