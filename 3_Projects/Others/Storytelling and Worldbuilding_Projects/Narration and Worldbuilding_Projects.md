@@ -65,7 +65,7 @@ If you are interest to reach more about this project:
 > Esma - Rennes  
 > Student Project - 2024 - 4 Months  
 > Worldbuilding Bible  
-> Class Project - Team of 4  
+> Full class Project - Team of 4  
 > Team Leader, Worldbuilder, 2D Art, Maps Creation  
 
 This school project was carried out as part of an art direction course, which involved creating a fictional world inhabited by multiple civilizations, each of which had to be invented, documented and illustrated by a specific group within an entire class of students.
