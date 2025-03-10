@@ -42,7 +42,7 @@ Finally, this project was also an opportunity to familiarize myself with Wonderd
 
 ## L’échappée du Red Phoenix
 
-> Esma - Rennes  
+> ESMA - Rennes  
 > Student Project - 2023 - 1 Month  
 > T-RPG Scenario  
 > Solo Project
@@ -59,7 +59,7 @@ This school project was produced as part of a narratology course. The goal was t
 
 ![Banner](Pictures/Banner_JivehDeha.png)
 
-> Esma - Rennes  
+> ESMA - Rennes  
 > Student Project - 2024 - 4 Months  
 > Worldbuilding Bible  
 > Full class Project - Team of 4  
