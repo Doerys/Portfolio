@@ -2,13 +2,10 @@
 
 ## Garden’s Keeper
 
-> Esma - Rennes
->
-> Student Project - 2023 - 1 Month
->
-> Phaser  3 - Javascript
->
-> Solo project
+> Esma - Rennes  
+> Student Project - 2023 - 1 Month  
+> Phaser  3 - Javascript  
+> Solo project  
 
 Garden's Keeper is a first-year student project, the aim of which was to create a **Zelda-like game**. 
 
@@ -24,13 +21,10 @@ Itch.io page if you want to test this game!
 
 ## G-Complex
 
-> Esma - Rennes
->
-> Student Project - 2023 - 1 Month
->
-> Document
->
-> Team of 5
+> Esma - Rennes  
+> Student Project - 2023 - 1 Month  
+> Document  
+> Team of 5  
 
 G-Complex is a first-year student group project whose goal was to create connected levels of a **non-linear 2D Side Scroller**, following the level design model of **Metroidvania**. The game was based on the mechanics of the **VVVVV video game**.
 
@@ -42,12 +36,9 @@ Level Design document (in French)
 
 ## The Golden Harbor
 
-> Esma - Rennes
->
-> Student Project - 2023 - 1 Month
->
-> Unreal Engine 5.2
->
+> Esma - Rennes  
+> Student Project - 2023 - 1 Month  
+> Unreal Engine 5.2  
 > Solo project
 
 This 2nd-year student project was my first **3D level design project**. The goal was to create a level at the blocking stage and make navigation interesting, while giving a sense of scale by using different volume proportions.
@@ -61,12 +52,9 @@ Video - Walkthrough with commentary (in French)
 
 ## Battle For Olympus
 
-> Esma - Rennes
->
-> Student Project - 2024 - 3 Months
->
-> Unreal Tournament Editor
->
+> Esma - Rennes  
+> Student Project - 2024 - 3 Months  
+> Unreal Tournament Editor  
 > Solo Project
 
 Battle For Olympus is a second-year student project using Unreal Tournament 4's map editor to create a completely new level within the original game. It's a capture-the-flag map, pitting teams of 10 players against each other.
@@ -76,6 +64,6 @@ Working on this project has enabled me to improve my skills on blocking level de
 The project also provided an opportunity to learn more about Unreal Engine features such as Landscape Mode, Exponential Height Fog and Lights.
 
 If you are interest to reach more about this project: 
-Video - Production Document (in French)
-Video - Walkthrough with commentary (in French)
-Video - Full Match
+Video - Production Document (in French)  
+Video - Walkthrough with commentary (in French)  
+Video - Full Match  
