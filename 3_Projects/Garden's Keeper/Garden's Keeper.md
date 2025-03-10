@@ -19,9 +19,9 @@ After working for 1 full month on this project in a scholar context, I went back
 
 This project was a very stimulating experience that challenged my game design skill. A lot of thought went into creating the character and player abilities, mobs, obstacles and puzzles so that they were both **fun and consistent** with the colorful world and light-hearted tone I wanted to establish. The final product really gives me the **old-school vibes of early Zelda games**, which is why I’m so proud of this project.
 
-Even though the programming architecture is a step down from my current programming skills (there is a 2709 lines script file...), this project was a great step forward in improving my programming skills at the time. It was very instructive on **3C and AI programming** and on **data transmission between scenes**.
+![Gameplay](Gif/Gameplay.gif)
 
-![Gameplay](Gifs/Gameplay.gif)
+Even though the programming architecture is a step down from my current programming skills (there is a 2709 lines script file...), this project was a great step forward in improving my programming skills at the time. It was very instructive on **3C and AI programming** and on **data transmission between scenes**.
 
 In addition, this project was an opportunity to improve my **level designs**, **UI art** and **pixel art skills**. I invite you to click on the links below if you'd like to find out more!
 
