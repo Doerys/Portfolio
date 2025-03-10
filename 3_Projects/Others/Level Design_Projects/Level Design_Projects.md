@@ -16,9 +16,9 @@ This project was a challenging experience in setting up **interesting navigation
 I made the level design on **Tiled**, a 2D level design program compatible with the Phaser 3 game engine.
 
 ### If you are interest to reach more about this project: 
+[Itch.io page if you want to test this game!](https://maerys.itch.io/gardens-keeper)  
 [Game Design & Programming Oriented Presentation](https://github.com/Doerys/Portfolio/blob/main/3_Projects/Garden's%20Keeper.md)  
 [Level Design pre-production document (in french)](Documents/ZeldaLike_LevelDesignDocument.pdf)  
-[Itch.io page if you want to test this game!](https://maerys.itch.io/gardens-keeper)  
 
 ## G-Complex
 
