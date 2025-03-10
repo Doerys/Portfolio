@@ -16,8 +16,7 @@ Taralda is a strategy game in which the player guides a group of plane crash sur
 
 This project introduced me to many elements of Game Concept and Game Design: Core Gameplay, Gameplay Loops, 3C, Game Mechanics, Game Feel, User Experience, Walkthrough, Game Sequences & Rhythm. Taralda taught me how to include this information in a game design document. In addition, I was able to improve my narrative skills by thinking through all the components of the game (themes, game mechanics, art, world-building) in order to serve a narrative purpose.
 
-If you are interest to reach more about this project: 
-
+### If you are interest to reach more about this project: 
 [Game Design Document (in french)](Documents/GameDesignDocument_Taralda.pdf)
 
 ## Away from me
@@ -38,8 +37,7 @@ This project enabled me to strengthen my Game Concept skills (Core Gameplay, Gam
 
 Finally, this project was also an opportunity to familiarize myself with Wonderdraft, a map creation tool useful to create maps of fictional universes.
 
-If you are interest to reach more about this project: 
-
+### If you are interest to reach more about this project: 
 [Literary Bible (in french)](Documents/LiteraryBible_AwayFromMe.pdf)
 
 ## L’échappée du Red Phoenix
@@ -53,8 +51,7 @@ L’échappée du Red Phoenix is a 4 hours T-RPG scenario taking place in a spac
 
 This school project was produced as part of a narratology course. The goal was to create a T-RPG scenario inspired by a short story written earlier in the year. At the time, I was used to the exercise of creating T-RPG scenarios, the game mastering and practice of T-RPGs being one of my main hobbies. But this project was a real interesting challenge, because of the constraints involved and the need to create a professional-quality document.
 
-If you are interest to reach more about this project: 
-
+### If you are interest to reach more about this project: 
 [Scenario document (in french)](Documents/ScenarioTRPGL'echappeeDuRedPhoenix.pdf)  
 [L’Etoile d’A’lanir, the short story that inspired this scenario (in french)](Documents/ShortStory_L'Etoiled'A'lanir.pdf)
 
@@ -73,6 +70,5 @@ This school project was carried out as part of an art direction course, which in
 Working on our civilization was an opportunity to reinforce my learning of world-building, which I had already begun on my previous work Away From me.
 I was also able to reinforce my skills in creating maps and photobashing using Photoshop. The scope of the project enabled me to learn how to work within a large group (a class of 20 students), including communication between teams to maintain consistency between our work.
 
-If you are interest to reach more about this project:
-
+### If you are interest to reach more about this project:
 Worldbuilding Bible
