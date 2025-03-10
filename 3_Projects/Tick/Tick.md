@@ -6,7 +6,7 @@
 > Team of 5  
 > Gameplay Programmer  
 
-Illu / concept du projet
+![Banner](Pictures/Banner.png)
 
 ## Context
 
