@@ -5,7 +5,7 @@
 > Unity - C#  
 > Solo project
 
-Illu / concept du projet
+![Banner](Pictures/Banner.png)
 
 ## Context
 Clicker Quest Adventure is a school project produced as part of a programming course. The aim was to create an idle game or a clicker, in order to practice UI / UX programming and the use of Scriptable Objects on Unity.
