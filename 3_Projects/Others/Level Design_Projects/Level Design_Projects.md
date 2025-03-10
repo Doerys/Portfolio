@@ -13,8 +13,7 @@ This project was a challenging experience in setting up **interesting navigation
 
 I made the level design on **Tiled**, a 2D level design program compatible with the Phaser 3 game engine.
 
-If you are interest to reach more about this project: 
-
+### If you are interest to reach more about this project: 
 Game Design & Programming Oriented Presentation  
 Level Design pre-production document (in French)  
 Itch.io page if you want to test this game!  
@@ -30,8 +29,7 @@ G-Complex is a first-year student group project whose goal was to create connect
 
 Working on this project has enabled me to learn how to **communicate with others on Level Design issues**, in order to create a continually **stimulating experience**, with a **progressive difficulty curve**. A great deal of thought was given to the **acquisition of new abilities** and their impact on level design situations and player's progression. In addition, the Metroidvania model prompted me to think about **backtracking** in level design, and how to keep the player motivated after reaching the end of a level.
 
-If you are interest to reach more about this project: 
-
+### If you are interest to reach more about this project: 
 Level Design document (in French)
 
 ## The Golden Harbor
@@ -47,7 +45,7 @@ The Golden Harbor is an **Unreal Engine’s level**, where the player takes on t
 
 The design of Golden Harbor enabled me to develop my **3D level design skills** and become familiar with the Unreal Engine tools used in blocking, such as **BSP Brushes** and the **Modeling Mode**. It was also the opportunity to learn more about **Lights** in Unreal, but also how to place them correctly in order to lead the player’s navigation through the level. Finally, I learned the basics of the **Post Process Volume**, enabling me to create a foggy atmosphere.
 
-If you are interest to reach more about this project: 
+### If you are interest to reach more about this project: 
 Video - Walkthrough with commentary (in French)
 
 ## Battle For Olympus
@@ -63,7 +61,7 @@ Working on this project has enabled me to improve my skills on blocking level de
 
 The project also provided an opportunity to learn more about Unreal Engine features such as Landscape Mode, Exponential Height Fog and Lights.
 
-If you are interest to reach more about this project: 
+### If you are interest to reach more about this project: 
 Video - Production Document (in French)  
 Video - Walkthrough with commentary (in French)  
 Video - Full Match  
