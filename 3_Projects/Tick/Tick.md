@@ -20,7 +20,7 @@ As a detective tracking down a dangerous criminal, the player finds himself trap
 
 One of my responsibilities was to create **increasingly difficult puzzles** for the player as he progressed through the game. The puzzles had to be **varied in their resolution logic**, to maintain the player's interest and curiosity. Among the 8 puzzles, we have puzzles relying on observation, reflex, deduction, searching and manipulation. 
 
-[Gif qui montre les possibilités de gameplay]
+![Gameplay](Gif/Gameplay.gif)
 
 **Post Mortem about Game Design Issues**: lack of time prevented us from doing playtests. But they would have been welcome to check the difficulty level of the puzzles, some of which were more difficult than expected. This issue made me realize the **importance of playtesting**, especially for puzzle-based games.
 
