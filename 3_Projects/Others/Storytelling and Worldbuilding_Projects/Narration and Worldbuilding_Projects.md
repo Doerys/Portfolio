@@ -2,11 +2,11 @@
 
 ## Taralda
 
-> Paris 3 Sorbonne Nouvelle - Paris
-> Student Project - 2021 - 4 Months
-> Game Design Document
-> Team of 4
-> Lead Game Designer, Art Direction, Level Designer, Narrative Designer
+> Paris 3 Sorbonne Nouvelle - Paris  
+> Student Project - 2021 - 4 Months  
+> Game Design Document  
+> Team of 4  
+> Lead Game Designer, Art Direction, Level Designer, Narrative Designer  
 
 ![Banner](Pictures/Banner_Taralda.png)
 
