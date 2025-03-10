@@ -20,13 +20,15 @@ If you are interest to reach more about this project:
 
 [Game Design Document (in french)](Documents/GameDesignDocument_Taralda.pdf)
 
-Away from me
+## Away from me
 
-> Paris 3 Sorbonne Nouvelle - Paris
-> Student Project - 2021 - 4 Months
-> Literary Bible
-> Team of 4
+> Paris 3 Sorbonne Nouvelle - Paris  
+> Student Project - 2021 - 4 Months  
+> Literary Bible  
+> Team of 4  
 > Lead Game Designer, Narrative Designer, Maps Creation
+
+![Banner](Pictures/Banner_AwayFromMe.png)
 
 This is a semester-long project in a Worldbuilding course, which involves inventing and documenting the components of a fictional universe in order to develop a story in the medium of our choice. We chose video games as the medium for our story.
 
@@ -40,12 +42,12 @@ If you are interest to reach more about this project:
 
 [Literary Bible (in french)](Documents/LiteraryBible_AwayFromMe.pdf)
 
-L’échappée du Red Phoenix
+## L’échappée du Red Phoenix
 
-> Esma - Rennes
-> Student Project - 2023 - 1 Month
-> T-RPG Scenario
-> Solo Project
+> Esma - Rennes  
+> Student Project - 2023 - 1 Month  
+> T-RPG Scenario  
+> Solo Project  
 
 L’échappée du Red Phoenix is a 4 hours T-RPG scenario taking place in a space opera universe, where the players have to escape the spaceship in which they are prisoners. This scenario includes exploration, fights, puzzles, infiltrations and social interactions.
 
@@ -53,10 +55,12 @@ This school project was produced as part of a narratology course. The goal was t
 
 If you are interest to reach more about this project: 
 
-Scenario document (in French)
-L’Etoile d’A’lanir, the short story that inspired this scenario (in French)
+[Scenario document (in french)](Documents/ScenarioTRPG_L'echappee Du Red Phoenix.pdf)
+[L’Etoile d’A’lanir, the short story that inspired this scenario (in french)](Documents/ShortStory_L'Etoile d'A'lanir.pdf)
 
-Jiveh Deha - Yoha Vhayhe Civilization
+## Jiveh Deha - Yoha Vhayhe Civilization
+
+![Banner](Pictures/Banner_JiveDeha.png)
 
 > Esma - Rennes
 > Student Project - 2024 - 4 Months
