@@ -12,7 +12,7 @@
 > 
 > Lead Game Designer, Art Direction, Level Designer, Narrative Designer
 
-(Pictures/Banner_Taralda.png)
+[](Pictures/Banner_Taralda.png)
 
 This is a semester-long project for a Narrative Design course, consisting in conceptualizing and documenting a narrative game concept.
 
