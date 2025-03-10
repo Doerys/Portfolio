@@ -5,7 +5,7 @@
 > Phaser 3 - Javascript
 > Solo Project
 
-![Banner](Pictures/Banner.gif)
+![Banner](Pictures/Banner.png)
 
 ## Context
 
