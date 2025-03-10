@@ -2,7 +2,7 @@
 
 ## Garden’s Keeper
 
-> Esma - Rennes  
+> ESMA - Rennes  
 > Student Project - 2023 - 1 Month  
 > Phaser  3 - Javascript  
 > Solo project  
@@ -22,7 +22,7 @@ I made the level design on **Tiled**, a 2D level design program compatible with 
 
 ## G-Complex
 
-> Esma - Rennes  
+> ESMA - Rennes  
 > Student Project - 2023 - 1 Month  
 > Document  
 > Team of 5  
@@ -36,7 +36,7 @@ Working on this project has enabled me to learn how to **communicate with others
 
 ## The Golden Harbor
 
-> Esma - Rennes  
+> ESMA - Rennes  
 > Student Project - 2023 - 1 Month  
 > Unreal Engine 5.2  
 > Solo project
@@ -54,7 +54,7 @@ The design of Golden Harbor enabled me to develop my **3D level design skills** 
 
 ## Battle For Olympus
 
-> Esma - Rennes  
+> ESMA - Rennes  
 > Student Project - 2024 - 3 Months  
 > Unreal Tournament Editor  
 > Solo Project
