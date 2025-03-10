@@ -28,7 +28,7 @@ One of my responsibilities was to create **increasingly difficult puzzles** for 
 
 As a student specialized in Programming, I was in charge of the **Programming of the 3C and the puzzles**. The main challenge of this game was to enable a **wide variety of actions and events** triggered by the same “Interact” action / input. To achieve this, we set up scripts mainly based on parenting. This approach prevented many problems and simplified the implementation of puzzles with very different logics.
 
-[Architecture](Pictures/ProgrammingArchitecture_Tick.png)
+![Architecture](Pictures/ProgrammingArchitecture_Tick.png)
 
 Emphasis was also placed on time management, as the game was time-limited. I created a Timer Manager script, designed to create progressive changes as the game progressed. I incorporated feedbacks playing on the color of the lights and the frequency of the bombs' beeps, to keep the player informed of the time remaining before the end.
 
