@@ -1,6 +1,6 @@
 # Tick...
 
-> Esma - Rennes  
+> ESMA - Rennes  
 > Student Project - 2024 - 2 Months  
 > Unity - C#  
 > Team of 5  
