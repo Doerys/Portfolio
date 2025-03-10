@@ -4,7 +4,7 @@
 > Student Project - 2024 - 2 Months  
 > Unity - C#  
 > Team of 5  
-> Gameplay Programmer  
+> Game Designer, Gameplay Programmer, Level Designer  
 
 ![Banner](Pictures/Banner.png)
 
