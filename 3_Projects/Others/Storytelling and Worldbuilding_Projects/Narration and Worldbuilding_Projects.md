@@ -71,7 +71,7 @@ If you are interest to reach more about this project:
 This school project was carried out as part of an art direction course, which involved creating a fictional world inhabited by multiple civilizations, each of which had to be invented, documented and illustrated by a specific group within an entire class of students.
 
 Working on our civilization was an opportunity to reinforce my learning of world-building, which I had already begun on my previous work Away From me.
-I was also able to reinforce my skills in creating maps and photobashing using Photoshop. The scope of the project enabled me to learn how to work within a large group, including communication between teams to maintain consistency between our work.
+I was also able to reinforce my skills in creating maps and photobashing using Photoshop. The scope of the project enabled me to learn how to work within a large group (a class of 20 students), including communication between teams to maintain consistency between our work.
 
 If you are interest to reach more about this project:
 
