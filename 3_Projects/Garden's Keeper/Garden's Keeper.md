@@ -21,11 +21,13 @@ This project was a very stimulating experience that challenged my game design sk
 
 Even though the programming architecture is a step down from my current programming skills (there is a 2709 lines script file...), this project was a great step forward in improving my programming skills at the time. It was very instructive on **3C and AI programming** and on **data transmission between scenes**.
 
+[Mettre un gif présentant le jeu]
+
 In addition, this project was an opportunity to improve my **level designs**, **UI art** and **pixel art skills**. I invite you to click on the links below if you'd like to find out more!
 
 ## More About This Projet
 
-Itch.io page if you want to test this game!
-Level Design Oriented Presentation
-UI Art Oriented Presentation
-2D Art Oriented Presentation
+[Itch.io page if you want to test this game!](https://maerys.itch.io/gardens-keeper)  
+[Level Design Oriented Presentation](https://github.com/Doerys/Portfolio/blob/main/3_Projects/Others/Level%20Design_Projects/Level%20Design_Projects.md#gardens-keeper)  
+UI Art Oriented Presentation (later)  
+2D Art Oriented Presentation (later)  
