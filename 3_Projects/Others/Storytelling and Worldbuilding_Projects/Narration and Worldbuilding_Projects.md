@@ -47,7 +47,9 @@ If you are interest to reach more about this project:
 > Esma - Rennes  
 > Student Project - 2023 - 1 Month  
 > T-RPG Scenario  
-> Solo Project  
+> Solo Project
+
+![Banner](Pictures/Banner_ScenarioTRPG.png)
 
 L’échappée du Red Phoenix is a 4 hours T-RPG scenario taking place in a space opera universe, where the players have to escape the spaceship in which they are prisoners. This scenario includes exploration, fights, puzzles, infiltrations and social interactions.
 
@@ -60,7 +62,7 @@ If you are interest to reach more about this project:
 
 ## Jiveh Deha - Yoha Vhayhe Civilization
 
-![Banner](Pictures/Banner_JiveDeha.png)
+![Banner](Pictures/Banner_JivehDeha.png)
 
 > Esma - Rennes
 > Student Project - 2024 - 4 Months
