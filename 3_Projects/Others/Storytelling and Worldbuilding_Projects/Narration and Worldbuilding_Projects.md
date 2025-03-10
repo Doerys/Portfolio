@@ -18,7 +18,7 @@ This project introduced me to many elements of Game Concept and Game Design: Cor
 
 If you are interest to reach more about this project: 
 
-Game Design Document (in french)
+[Game Design Document (in french)](Documents/GameDesignDocument_Taralda.pdf)
 
 Away from me
 
@@ -38,7 +38,7 @@ Finally, this project was also an opportunity to familiarize myself with Wonderd
 
 If you are interest to reach more about this project: 
 
-Literary Bible (in french)
+[Literary Bible (in french)](Documents/LiteraryBible_AwayFromMe.pdf)
 
 L’échappée du Red Phoenix
 
