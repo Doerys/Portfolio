@@ -1,6 +1,6 @@
 # Tinykinesis
 
-> Esma - Rennes  
+> ESMA - Rennes  
 > Student Project - 2024 / 2025 - 10 Months  
 > Unreal Engine 5.4 - Blueprints  
 > Team of 10  
@@ -86,11 +86,11 @@ As Game Designer, I frequently gave __feedback and instructions__ to the Level D
 
 ## What I Learned
 
-Organisation d’une grosse équipe.
+Because of its duration and scope, this project taught me a lot. I learned how to work in an organized way within a __large multi-specialist team__, on a single project spread over a year. This meant learning all the issues involved, such as __communication, meetings, task planning and setting up sprints__.
 
-Adaptations et révision d’un concept sur la base d’un projet à long terme.
+In __Game Design__, it was a challenging project in terms of __adaptations and revisions__ to be made to the concept over the long term, taking into account feedback throughout production. I was also able to develop skills in __spreadsheet management, balancing and document creation__.
 
-Énormément de choses sur Unreal, familiarisé avec plein d’outils, entre autres les Characters et Controller, les Input Actions, les Actor Components, les Events Dispatchers, les Data Assets et les Animations Blueprints. Ça m'a aussi aidé en architecture de programmation.
+In __Gameplay Programming__, I learned a lot about Unreal Engine and became familiar with a __wide range of features and tools__, including Characters and Controllers, Widget Blueprints, Input Actions, Actor Components, Event Dispatchers, Blueprint Interfaces and Animation Blueprints. I also understood the logic of Behavior Trees and Blackboards, even though I wasn't in charge of AI programming. I dabbled a little in Materials and Niagara Systems, to understand the basics, but I wasn't in charge of that either. Finally, in terms of thinking about programming, I __developed my programming architecture skills__ a lot.
 
 ## More About This Projet
-Itch.io page if you want to test this game!
+[Itch.io page if you want to test this game!](https://barna-bus.itch.io/tinykinesis)

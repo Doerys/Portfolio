@@ -40,3 +40,61 @@
 
 ## Films / Series
 
+### The Lord of the Rings Trilogy
+
+![TheLordOfTheRings](Banners/TheLordOfTheRings_Banner.png)
+
+### Hunger Games Quadrilogy
+
+![HungerGames](Banners/HungerGames_Banner.jpg)
+
+### Everything Everywhere All At Once
+
+![EverythingEverywhereAllAtOnce](Banners/EverythingEverywhereAllAtOnce_Banner.jpg)
+
+### Arcane
+
+![Arcane](Banners/Arcane_Banner.png)
+
+### Avatar: The Last Airbender
+
+![Avatar:TheLastAirbender](Banners/Avatar_Banner.jpg)
+
+### She-ra and the Princesses of Power (Netflix)
+
+![Shera](Banners/Shera_Banner.png)
+
+### The Amazing World of Gumball
+
+![Gumball](Banners/Gumball_Banner.png)
+
+### South Park
+
+![SouthPark](Banners/SouthPark_Banner.png)
+
+### Attack on Titans
+
+![AttackOnTitans](Banners/AttackOnTitan_Banner.jpeg)
+
+### Violet Evergarden Saga
+
+![Violet Evergarden](Banners/VioletEvergarden_Banner.png)
+
+## Music
+
+### The Soundtracks of Video Games and Films / Series above ↑
+
+### Films, Series & Video Games Scores (Hans Zimmer, Neal Acree, Jeremy Soule, Ramin Djawadi, Bear McCreary)
+
+### 2000, 2010's Pop (Lady Gaga, Avril Lavigne, Ariana Grande, The Chainsmokers, Coldplay and more)
+
+### Musicals (Wicked, The Greatest Showman, West Side Story, Moulin Rouge)
+
+## Others
+
+### T-RPG (Dungeon and Dragons 5e, Critical Role Universe)
+### Mass Larp (Kandorya)
+### Writing (shorts stories, novels, scenarios and more)
+### Voice Acting and Roleplaying
+### Boards Games
+### Walking hours to go nowhere and stimulate imagination
