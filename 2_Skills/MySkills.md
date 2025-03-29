@@ -1,4 +1,4 @@
-# My General Skills
+# My Skills
 
 I'm currently completing my degree in Video Game Development, specializing in Game Design and Programming. I see myself as a versatile Developper, able to adapt quickly to a project. For more details, I invite you to discover the details of my skills and fields of expertise just below:
 
