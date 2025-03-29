@@ -21,7 +21,7 @@ Finally, I'm comfortable doing R&D in a specific sector, genre or type of gamepl
 
 To ensure the feasibility of a game mechanism or function, I'm not afraid to go to the engine and iterate through prototyping. My knowledge of programming is an asset that I like to combine with my game design skills, so that I can associate theoretical reflection with concrete creation.
 
-[Gif R&D Prototypage Tinykinesis]
+[Gif R&D Prototypage Tinykinesis]()
 
 ### Situation Design
 
@@ -43,7 +43,7 @@ When it comes to optimization, I know how to ensure that functions are implement
 
 Finally, although I've had less opportunity to experiment with these tools to the point of making them my own, I have some basic knowledge of:
 
-- VFX,
+- VFX
 - Sound integration
 - Light integration
 
@@ -55,7 +55,7 @@ To find out more, I invite you to take a look at these various projects done on 
 
 I've used **Character, Controller and Input Actions** enough to build up a good knowledge base of how to use them correctly for 3C Programming. I also know how to **handle physics** within the engine, and I have enough experience of collision management to understand how to set up and work with **Collision Presets**.
 
-[Mettre un exemple de Tinykinesis]
+[Mettre un exemple de Tinykinesis]()
 
 Concerning optimization, I know how to ensure proper implementation of functions within an optimized hierarchy, using **Events Dispatcher and Blueprint Interfaces**. I also can do data-oriented programming using **Data Assets and Enums**.
 
