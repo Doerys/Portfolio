@@ -16,10 +16,10 @@ I'm used to playing a leadership role or an important part in team projects. My 
 
 ## Here you can find:
 
-- My Resume/Cv
-- A list of my skills
-- A review of my projects
-- A list of the things (VideoGames, Movies, etc..) I like if you really want to know me!
+- [My Resume/Cv](1_Resume_YannChatila.png)
+- [A list of my skills](2_Skills/MySkills)
+- [A review of my projects]()
+- [A list of the things (video games, movies, etc..) I like if you really want to know me!]()
 
 ## Contact me
 You can reach me if you want:
