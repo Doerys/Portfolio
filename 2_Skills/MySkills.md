@@ -105,3 +105,27 @@ I've also mastered the basics of Premiere Pro for video editing, which I've used
 
 You can check on this Animated short film “Les aventures de Patablou” to check my work on editing, animation and audio mixing: 
 
+## Soft Skills
+
+### Communication
+
+I’m used to **working in a team** (most of my projects were created by a team of 4 persons or more), so I have a tendency to share information and communicate between team members. During my studies and game jams, I have learned to communicate effectively with **Designers, Programmers and Artists** in order to work in the same direction.
+
+I'm very comfortable **sharing my ideas and opinions on a project**, whether internally with my team members, or as part of a written or oral presentation. 
+
+I have a very good command of **Word Processors** (Word, Google Docs...) to create clear, chaptered, illustrated documentation, using the right style settings and dynamic links.
+
+Finally, I've mastered **presentation tools** such as Google Slides, Powerpoints and Canva, so I can create slides that are legible, clear and attractive, and set up templates to simplify slide creation for an entire team.
+
+### Adaptation
+
+I’m a **fast learner**, and I can familiarize myself with a tool or work process in just a few iterations, even on software or subjects on which I have little experience. I can search the Internet, forums and engine documentation effectively, so I know **where and how to find the answer** to many problems.
+
+### Organisation
+
+My curiosity and need for understanding drive me to take an interest in the work of my team members, to gain a global vision and understanding of a project.
+
+I rarely work in isolation and **always collaborate with other members of my team**, especially when it comes to making decisions: it's important for me to **cross opinions** to make sure I'm making the right choices.
+
+I organize my work in a **very rational and pragmatic way**, and this tends to radiate around me within my team. I generally **adapt my planning and tasks collectively**, so that they are coherent, even beneficial, with those of others.
+
