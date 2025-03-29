@@ -16,15 +16,19 @@ Finally, I'm comfortable doing R&D in a specific sector, genre or type of gamepl
 
 ## Gameplay Programming Skills
 
+### Hierarchy and Architecture
+
+I attach great importance to code **optimization and maintainability**. To guarantee this, after a short prototyping phase to test the engine's capabilities, I think about the structure of my code before I even start coding, so that it's **clean, logical and above all understandable**. For this last point, I systematically create an **architecture diagram** that I make accessible to the other members of my team.
+
+I hunt down code repetition, and try to **factorize** it a lot. I generally rely on the **parent class system**, **interfaces and delegates**, but I'm open to learning other design patterns that would help me further optimize my code.
+
 ### Unreal Engine (Blueprints)
 
 I've used **Character, Controller and Input Actions** enough to build up a good knowledge base of how to use them correctly for 3C Programming. I also know how to **handle physics** within the engine, and I have enough experience of collision management to understand how to set up and work with **Collision Presets**.
 
+Concerning optimization, I know how to ensure proper implementation of functions within an optimized hierarchy, using **Events Dispatcher and Blueprint Interfaces**. I also can do data-oriented programming using **Data Assets and Enums**.
+
 Overall, I understand the benefits of **Game Instance and Game Save**, and am able to use them to transfer data between scenes. 
-
-Concerning optimization, I know how to ensure proper implementation of functions within an optimized hierarchy, using **Event Dispatchers and Blueprint Interfaces**.
-
-I can do data-oriented programming using **Data Assets and Enums**.
 
 Finally, although I've had less opportunity to experiment with these tools to the point of making them my own, I do have some basic knowledge of:
 
