@@ -46,7 +46,6 @@ To find out more, I invite you to take a look at these various projects done on 
 - [Tick](../3_Projects/Tick/Tick.md)
 - [Clicker Quest Adventure](https://github.com/Doerys/Portfolio/blob/main/3_Projects/Clicker%20Quest%20Adventure/Clicker%20Quest%20Adventure.md)
 
-
 ### Unreal Engine (Blueprints)
 
 I've used **Character, Controller and Input Actions** enough to build up a good knowledge base of how to use them correctly for 3C Programming. I also know how to **handle physics** within the engine, and I have enough experience of collision management to understand how to set up and work with **Collision Presets**.
@@ -68,3 +67,7 @@ Finally, although I've had less opportunity to experiment with these tools to th
 To find out more, I invite you to take a look at my graduation project [Tinykinesis](../3_Projects/Tinykinesis/Tinykinesis.md), which was extremely instructive in my learning of Unreal Engine's programming tools.
 
 As a bonus, I have a good understanding of the level design tools offered by the engine (you can see that in the category below).
+
+### Other Languages
+
+I've been able to practice **JavaScript** by working on a number of projects using the Phaser 3 game engine. To see some of these games, please visit my [itch.io page](https://maerys.itch.io/).
