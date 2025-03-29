@@ -99,4 +99,6 @@
 ### Boards Games
 ### Walking hours to go nowhere and stay stuck in my mind
 
+---
+
 [Get back to the main page](../README.md)
