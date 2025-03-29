@@ -11,11 +11,11 @@ I'm currently completing my degree in Video Game Development, specializing in Ga
 
 ### Creativity / Concepts
 
-I'm often described as imaginative. I spend hours every day brainstorming or writing down lists of ideas. But my favorite part of creating a video game is working and reflecting on these ideas, until they become a project that makes sense, is relevant and coherent. I know how to apply the MDA framework to move in that direction.
+I'm often described as imaginative. I spend hours every day **brainstorming or writing down lists of ideas**. But my favorite part of creating a video game is working and reflecting on these ideas, until they become a project that **makes sense, is relevant and coherent**. I know how to apply the MDA framework to move in that direction.
 
-I think about a project not from just one angle, but from many. I would define my approach as multidisciplinary: I take into account the different specialties involved in the project, and therefore the people involved, in order to assess its overall coherence, and above all its feasibility.
+I think about a project not from just one angle, but from many. I would define my approach as **multidisciplinary**: I take into account the different specialties involved in the project, and therefore the people involved, in order to assess its overall coherence, and above all its **feasibility**.
 
-Finally, I'm comfortable doing R&D in a specific sector, genre or type of gameplay functionality, which enables me to assess the interest of a project and the relevance of an idea in relation to an existing market or competing games. My affinity for action-adventure, FPS and narrative games (you can take a look at my favorite game licenses here) gives me a good expertise and understanding of these games, their design and the offerings on the market.
+Finally, I'm comfortable doing **R&D in a specific sector, genre or type of gameplay functionality**, which enables me to assess the interest of a project and the relevance of an idea in relation to an existing market or competing games. My affinity for **action-adventure, FPS and narrative games** (you can take a look at [my favorite game licenses here](../4_ThingsILike/ThingsILike.md)) gives me a good expertise and understanding of these games, their design and the offerings on the market.
 
 ### Prototyping
 
