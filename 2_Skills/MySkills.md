@@ -105,7 +105,7 @@ Even if my professional ambitions don't lie in visual creation, I have a **good 
 
 If you're interested, you can take a look at my [2D creations on this page](../3_Projects/Others/2DArt_Projects/2DArt_Projects.md).
 
-I've also mastered the basics of **Premiere Pro** for video editing, which I've used to make mini-movies or 2D animation / stop motion, as well as a good understanding of **Audacity** for mixing and audio recording.
+I've also mastered the basics of **Premiere Pro** for video editing, which I've used to make short films or 2D animation / stop motion, as well as a good understanding of **Audacity** for mixing and audio recording.
 
 You can take a look of this Animated short film - [Les Aventures de Patablou](https://youtu.be/US73xBjlbbo?si=cIYuoPGiqQgEc2hR) - to check my work on editing, animation and audio mixing. 
 
