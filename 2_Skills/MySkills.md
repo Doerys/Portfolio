@@ -1,6 +1,11 @@
 # My General Skills
 
-I'm currently completing my degree in Video Game Development, specializing in Game Design and Programming. I see myself as a versatile Developper, able to adapt quickly to a project. For more details, I invite you to discover the details of my skills and fields of expertise just below.
+I'm currently completing my degree in Video Game Development, specializing in Game Design and Programming. I see myself as a versatile Developper, able to adapt quickly to a project. For more details, I invite you to discover the details of my skills and fields of expertise just below:
+
+- [Game Design Skills](https://github.com/Doerys/Portfolio/blob/main/2_Skills/MySkills.md#game-design-skills)
+- [Gameplay Programming Skills](https://github.com/Doerys/Portfolio/blob/main/2_Skills/MySkills.md#gameplay-programming-skills)
+- [Others Skills and Softwares](https://github.com/Doerys/Portfolio/blob/main/2_Skills/MySkills.md#others-skills--softwares)
+- [Soft Skills]()
 
 ## Game Design Skills
 
