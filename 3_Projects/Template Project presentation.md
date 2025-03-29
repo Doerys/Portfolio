@@ -1,11 +1,15 @@
-# Nom du jeu
-> Où (événement, studio, école etc...)
-> Quoi (type de projet, dans quel cadre, année, durée)
-> Moteur, Langage de programmation
-> Nombre de personnes impliquées dans le projet
-> Casquettes tenues
+# My projects
 
-Illu / concept du projet
+Introduction où je dis que j'ai fait beaucoup de projets, que ce soit dans le cadre de mes études ou au sein de game jams.
+
+La plupart sont disponibles sur ma page itch.io, et je vous propopose de faire un focus sur certains d'entre eux : 
+
+
+
+
+Others: 
+
+Skills
 
 ## Context
 Rappeler dans des phrases le contexte (où, type de projet), l'étendue du projet.
