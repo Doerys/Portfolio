@@ -34,6 +34,6 @@ Finally, although I've had less opportunity to experiment with these tools to th
 - **Tech Art Tools** (Shaders, Niagara Systems)
 - **Dev Tools creation**
 
-
+To find out more, I invite you to take a look at my graduation project [Tinykinesis](3_Projects/Tinykinesis/Tinykinesis.md), which was extremely instructive in my learning of Unreal Engine's programming tools.
 
 As a bonus, I have a good understanding of the level design tools offered by the engine (you can see that in the category below).
