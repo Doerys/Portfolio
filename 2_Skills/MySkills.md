@@ -133,3 +133,5 @@ My curiosity and need for understanding drive me to take an interest in the work
 
 I organize my work in a **very rational and pragmatic way**, and this tends to radiate around me within my team. I generally **adapt my planning and tasks collectively**, so that they are coherent, even beneficial, with those of others.
 
+[Get back to the main page](../README.md)
+
