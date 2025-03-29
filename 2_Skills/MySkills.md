@@ -30,6 +30,23 @@ I attach great importance to code **optimization and maintainability**. To guara
 
 I hunt down code repetition, and try to **factorize** it a lot. I generally rely on the **parent class system**, **interfaces and delegates**, but I'm open to learning other design patterns that would help me further optimize my code.
 
+### Unity (C#)
+
+I have good practice in **UI / UX programming**, and know how to set up a responsive game interface that is fun to interact with. I have a sufficient knowledge base to implement **simple 3C features** on Unity, although I'd like to experiment more in this area.
+
+When it comes to optimization, I know how to ensure that functions are implemented correctly, in an optimized hierarchy, notably by using **Prefabs**. I also know how to do Data-oriented Programming using **Scriptable Objects** and **Enums**.
+
+Finally, although I've had less opportunity to experiment with these tools to the point of making them my own, I have some basic knowledge of:
+
+- VFX,
+- Sound integration
+- Light integration
+
+To find out more, I invite you to take a look at these various projects done on Unity:
+- [Tick](../3_Projects/Tick/Tick.md)
+- [Clicker Quest Adventure](../3_Projects/ClickerQuestAdventure/ClickerQuestAdventure.md)
+
+
 ### Unreal Engine (Blueprints)
 
 I've used **Character, Controller and Input Actions** enough to build up a good knowledge base of how to use them correctly for 3C Programming. I also know how to **handle physics** within the engine, and I have enough experience of collision management to understand how to set up and work with **Collision Presets**.
