@@ -91,13 +91,13 @@ The systematic use of Github in each of my school and Game Jam projects has left
 
 I have a good appreciation of Level Design and Level Art. Through school projects and game jams, I've been able to improve my level-building skills, and I now systematically apply an iterative process to make the flow and understanding of these levels as instinctive and fun as possible. 
 
-To find out more, take a look at [this page summarizing my biggest level design projects](../3_Projects/Others/LevelDesign_Projects/LevelDesign_Projects.md).
+To find out more, take a look at [this page summarizing my biggest Level Design projects](../3_Projects/Others/LevelDesign_Projects/LevelDesign_Projects.md).
 
 ### Storytelling / Worldbuilding
 
 Before I became professionally interested in video games, my ambitions were focused on writing and storytelling. As a result, I have a keen interest in the narrative aspect of games (not just video games, but other media such as T-RPGs), particularly in worldbuilding and the feeling of living a story through an interactive medium. 
 
-This is reflected in some of my projects, which you can discover on [this page where I show some details about narrative projects](../3_Projects/Others/StorytellingWorldbuilding_Projects/StorytellingWorldbuilding_Projects.md).
+This is reflected in some of my projects, which you can discover on [this page where I show some details about Narrative Projects](../3_Projects/Others/StorytellingWorldbuilding_Projects/StorytellingWorldbuilding_Projects.md).
 
 ### Art & Video Softwares
 
