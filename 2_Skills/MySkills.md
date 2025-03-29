@@ -44,7 +44,7 @@ Finally, although I've had less opportunity to experiment with these tools to th
 
 To find out more, I invite you to take a look at these various projects done on Unity:
 - [Tick](../3_Projects/Tick/Tick.md)
-- [Clicker Quest Adventure](../3_Projects/ClickerQuestAdventure/ClickerQuestAdventure.md)
+- [Clicker Quest Adventure](https://github.com/Doerys/Portfolio/blob/main/3_Projects/Clicker%20Quest%20Adventure/Clicker%20Quest%20Adventure.md)
 
 
 ### Unreal Engine (Blueprints)
