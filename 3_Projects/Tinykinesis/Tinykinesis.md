@@ -4,7 +4,7 @@
 > Student Project - 2024 / 2025 - 10 Months  
 > Unreal Engine 5.4 - Blueprints  
 > Team of 10  
-> Head Game Designer, Gameplay Programmer, Narrative Designer
+> Head Game Designer, Gameplay Programmer
 
 ## Context
 
