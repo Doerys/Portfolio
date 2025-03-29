@@ -60,5 +60,5 @@ Although the few gaps in artistic integration were not expected, it was an oppor
 ---
 
 [Get back to the project page](../MyProjects.md)  
-[Get back to the main page](../README.md)
+[Get back to the main page](../../README.md)
 
