@@ -8,7 +8,7 @@ I started creating my own video games projects in **2021** alongside **Cinema an
 
 My main skills are geared towards **Game Design**: I love to create concepts and interesting experiences for players using the **MDA, Situation Design and Flow Model frameworks**. 
 
-I’ve also developed a real interest in **Programming**, enabling me to prototype my ideas directly on game engines. Various projects have enabled me to acquire skills in **Gameplay and UI / UX Programming**, notably on **Unity with C#** and on **Unreal Engine using Blueprints**. I’m also capable of prototyping using Javascript on Phaser game engine.
+I’ve also developed a real interest in **Programming**, enabling me to prototype my ideas directly on game engines. Various projects have enabled me to acquire skills in **Gameplay Programming**, notably on **Unity with C#** and on **Unreal Engine using Blueprints**. I’m also capable of prototyping using Javascript on Phaser game engine.
 
 More generally, I’m very curious and motivated to learn about a wide variety of subjects that can help me express my creativity in my projects, such as Level Design, storytelling, voice acting, art and video creation.
 
