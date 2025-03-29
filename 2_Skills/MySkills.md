@@ -26,6 +26,8 @@ I hunt down code repetition, and try to **factorize** it a lot. I generally rely
 
 I've used **Character, Controller and Input Actions** enough to build up a good knowledge base of how to use them correctly for 3C Programming. I also know how to **handle physics** within the engine, and I have enough experience of collision management to understand how to set up and work with **Collision Presets**.
 
+[Mettre un exemple de Tinykinesis]
+
 Concerning optimization, I know how to ensure proper implementation of functions within an optimized hierarchy, using **Events Dispatcher and Blueprint Interfaces**. I also can do data-oriented programming using **Data Assets and Enums**.
 
 Overall, I understand the benefits of **Game Instance and Game Save**, and am able to use them to transfer data between scenes. 
