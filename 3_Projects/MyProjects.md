@@ -37,6 +37,6 @@ This is a solo project that I thought it would be interesting to present, in ord
 What I did
 Let’s give it a try!
 
---
+---
 
 [Get back to the main page](../README.md)
