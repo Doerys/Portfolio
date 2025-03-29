@@ -71,3 +71,32 @@ As a bonus, I have a good understanding of the level design tools offered by the
 ### Other Languages
 
 I've been able to practice **JavaScript** by working on a number of projects using the Phaser 3 game engine. To see some of these games, please visit my [itch.io page](https://maerys.itch.io/).
+
+## Others Skills & Softwares
+
+### Project Management
+
+During the various school projects and game jams I've done, I've been able to familiarize myself with different organizational softwares, such as Taiga and Trello. I make good use of these softwares to keep track of the progress of a project and my own tasks, particularly by following the agile method via the creation of sprints. I also like to use the softwares of Microsoft and Google for planning, communication and document creations. 
+
+### Version Management
+
+The systematic use of Github in each of my school and Game Jam projects has left me with a solid knowledge base for understanding how this software works, how to merge versions correctly, and how to resolve conflicts between different branches.
+
+### Level design
+
+I have a good appreciation of Level Design and Level Art. Through school projects and game jams, I've been able to improve my level-building skills, and I now systematically apply an iterative process to make the flow and understanding of these levels as instinctive and fun as possible. To find out more, take a look at this page summarizing my biggest game design projects.
+
+### Storytelling / Worldbuilding
+
+Before I became professionally interested in video games, my ambitions were focused on writing and storytelling. As a result, I have a keen interest in the narrative aspect of games (not just video games, but other media such as T-RPGs), particularly in worldbuilding and the feeling of living a story through an interactive medium. This is evident in some of my projects, which you can discover on this page.
+
+### Art & Video Softwares
+
+Even if my professional ambitions don't lie in visual creation, I have a good general knowledge of the artistic image (I graduated with a degree in cinema and audiovisual design). I have a good knowledge of Graphic Design software tools (Photoshop, Illustrator, Indesign) to produce visuals convincing enough to translate my ideas into a first draft, whether by producing an illustration or factorized drawing, by retouching an image or by using photobashing.
+
+If you're interested, you can take a look at my 2D creations on this page:
+
+I've also mastered the basics of Premiere Pro for video editing, which I've used to make mini-movies or 2D animation / stop motion, as well as a good understanding of Audacity for mixing and audio recording.
+
+You can check on this Animated short film “Les aventures de Patablou” to check my work on editing, animation and audio mixing: 
+
