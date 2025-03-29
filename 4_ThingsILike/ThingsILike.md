@@ -97,4 +97,6 @@
 ### Writing (shorts stories, novels, scenarios and more)
 ### Voice Acting and Roleplaying
 ### Boards Games
-### Walking hours to go nowhere and stimulate imagination
+### Walking hours to go nowhere and stay stuck in my mind
+
+[Get back to the main page](../README.md)
