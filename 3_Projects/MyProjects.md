@@ -10,7 +10,7 @@ There are also many smaller projects I did during game jams or student classes. 
 
 I was the **Lead Game Designer** and for the second half of production I was also the **3C Programmer**. I also carried out other tasks throughout production. This was our graduation project, which took over a year to produce.
 
-[What I did](Tinykinesis/Tinykinesis.md)
+[What I did](Tinykinesis/Tinykinesis.md)  
 [Let’s give it a try!](https://barna-bus.itch.io/tinykinesis)
 
 ## Clicker Quest Adventure
@@ -19,7 +19,7 @@ I was the **Lead Game Designer** and for the second half of production I was als
 
 The aim of this project was to familiarize us with **UI / UX Programming** as well as **object-oriented Programming** on Unity. I really enjoyed working on this project, and am proud of the skills I was able to acquire.
 
-[What I did](ClickerQuestAdventure/ClickerQuestAdventure.md)
+[What I did](ClickerQuestAdventure/ClickerQuestAdventure.md)  
 [Let’s give it a try!](https://maerys.itch.io/idle-quest-adventure)
 
 ## Tick
@@ -28,7 +28,7 @@ The aim of this project was to familiarize us with **UI / UX Programming** as we
 
 I was the **Head Gameplay Programmer** in a 5-member team. I was in charge of creating a whole **programming architecture** so that another programmer and I could work on the same project, and then I implemented the majority of the game's puzzles and features.
 
-[What I did](Tick/Tick.md)
+[What I did](Tick/Tick.md)  
 [Let’s give it a try!](https://maerys.itch.io/tick)
 
 ## Garden’s Keeper
@@ -37,7 +37,7 @@ I was the **Head Gameplay Programmer** in a 5-member team. I was in charge of cr
 
 This is a **solo project** that I thought it would be interesting to present, in order to show a wide range of my skills, which I've had the opportunity to deploy within the same project. Basically, it includes **Game Design, Level Design, Gameplay Programming and 2D creation**.
 
-[What I did](Garden'sKeeper/Garden'sKeeper.md)
+[What I did](Garden'sKeeper/Garden'sKeeper.md)  
 [Let’s give it a try!](https://maerys.itch.io/gardens-keeper)
 
 ---
