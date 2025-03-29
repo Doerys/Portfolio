@@ -35,4 +35,4 @@ UI Art Oriented Presentation (later)
 ---
 
 [Get back to the project page](../MyProjects.md)  
-[Get back to the main page](./README.md)
+[Get back to the main page](../../README.md)
