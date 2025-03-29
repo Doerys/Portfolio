@@ -113,7 +113,7 @@ You can take a look of this Animated short film - [Les Aventures de Patablou](ht
 
 I know and am able to apply a basic **3D creation pipeline**, including modeling, UV mapping, texturing and integration within the engine. This is a great help in understanding what 3D artists do within a production.
 
-For an example, here's Pop the Bubble, a game jam project in which I had fun doing nothing but 3D modeling.
+For an example, here's [Pop the Bubble](https://maerys.itch.io/pop-the-bubble), a game jam project in which I had fun doing nothing but 3D modeling.
 
 ## Soft Skills
 
