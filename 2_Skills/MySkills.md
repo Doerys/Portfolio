@@ -105,6 +105,12 @@ I've also mastered the basics of Premiere Pro for video editing, which I've used
 
 You can check on this Animated short film “Les aventures de Patablou” to check my work on editing, animation and audio mixing: 
 
+### 3D Engines
+
+I know and am able to apply a basic **3D creation pipeline**, including modeling, UV mapping, texturing and integration within the engine. This is a great help in understanding what 3D artists do within a production.
+
+For an example, here's Pop the Bubble, a game jam project in which I had fun doing nothing but 3D modeling.
+
 ## Soft Skills
 
 ### Communication
@@ -123,9 +129,7 @@ I’m a **fast learner**, and I can familiarize myself with a tool or work proce
 
 ### Organisation
 
-My curiosity and need for understanding drive me to take an interest in the work of my team members, to gain a global vision and understanding of a project.
-
-I rarely work in isolation and **always collaborate with other members of my team**, especially when it comes to making decisions: it's important for me to **cross opinions** to make sure I'm making the right choices.
+My curiosity and need for understanding drive me to take an interest in the work of my team members, to gain a global vision and understanding of a project. I rarely work in isolation and **always collaborate with other members of my team**, especially when it comes to making decisions: it's important for me to **cross opinions** to make sure I'm making the right choices.
 
 I organize my work in a **very rational and pragmatic way**, and this tends to radiate around me within my team. I generally **adapt my planning and tasks collectively**, so that they are coherent, even beneficial, with those of others.
 
