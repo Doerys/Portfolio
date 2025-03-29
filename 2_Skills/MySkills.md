@@ -89,17 +89,21 @@ The systematic use of Github in each of my school and Game Jam projects has left
 
 ### Level design
 
-I have a good appreciation of Level Design and Level Art. Through school projects and game jams, I've been able to improve my level-building skills, and I now systematically apply an iterative process to make the flow and understanding of these levels as instinctive and fun as possible. To find out more, take a look at this page summarizing my biggest game design projects.
+I have a good appreciation of Level Design and Level Art. Through school projects and game jams, I've been able to improve my level-building skills, and I now systematically apply an iterative process to make the flow and understanding of these levels as instinctive and fun as possible. 
+
+To find out more, take a look at [this page summarizing my biggest level design projects](../3_Projects/Others/LevelDesign_Projects/LevelDesign_Projects.md).
 
 ### Storytelling / Worldbuilding
 
-Before I became professionally interested in video games, my ambitions were focused on writing and storytelling. As a result, I have a keen interest in the narrative aspect of games (not just video games, but other media such as T-RPGs), particularly in worldbuilding and the feeling of living a story through an interactive medium. This is evident in some of my projects, which you can discover on this page.
+Before I became professionally interested in video games, my ambitions were focused on writing and storytelling. As a result, I have a keen interest in the narrative aspect of games (not just video games, but other media such as T-RPGs), particularly in worldbuilding and the feeling of living a story through an interactive medium. 
+
+This is reflected in some of my projects, which you can discover on [this page where I show some details about narrative projects](../3_Projects/Others/StorytellingWorldbuilding_Projects/StorytellingWorldbuilding_Projects.md).
 
 ### Art & Video Softwares
 
 Even if my professional ambitions don't lie in visual creation, I have a good general knowledge of the artistic image (I graduated with a degree in cinema and audiovisual design). I have a good knowledge of Graphic Design software tools (Photoshop, Illustrator, Indesign) to produce visuals convincing enough to translate my ideas into a first draft, whether by producing an illustration or factorized drawing, by retouching an image or by using photobashing.
 
-If you're interested, you can take a look at my 2D creations on this page:
+If you're interested, you can take a look at my [2D creations on this page](../3_Projects/Others/2DArt_Projects/2DArt_Projects.md).
 
 I've also mastered the basics of Premiere Pro for video editing, which I've used to make mini-movies or 2D animation / stop motion, as well as a good understanding of Audacity for mixing and audio recording.
 
