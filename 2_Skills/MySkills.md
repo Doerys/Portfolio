@@ -19,13 +19,13 @@ Finally, I'm comfortable doing **R&D in a specific sector, genre or type of game
 
 ### Prototyping
 
-To ensure the feasibility of a game mechanism or function, I'm not afraid to go to the engine and iterate through prototyping. My knowledge of programming is an asset that I like to combine with my game design skills, so that I can associate theoretical reflection with concrete creation.
+To ensure the feasibility of a game mechanism or function, I'm not afraid to go to the engine and **iterate through prototyping**. My knowledge of programming is an asset that I like to combine with my game design skills, so that I can **associate theoretical reflection with concrete creation**.
 
 [Gif R&D Prototypage Tinykinesis]()
 
 ### Situation Design
 
-I'm able to do Situation Design, so that I can draw up a list of situations that I can mobilize to create a game sequence. I understand the basics of the Flow Model, so that this sequence of situations follows a balanced curve in terms of challenge. However, I'd like to gain more experience on this subject, to fully appropriate this framework.
+I'm able to do Situation Design, so that I can draw up a list of situations that I can mobilize to create a game sequence. I understand the basics of the **Flow Model**, so that this sequence of situations follows a balanced curve in terms of challenge. However, I'd like to gain more experience on this subject, to fully appropriate this framework.
 
 ## Gameplay Programming Skills
 
@@ -81,33 +81,33 @@ I've been able to practice **JavaScript** by working on a number of projects usi
 
 ### Project Management
 
-During the various school projects and game jams I've done, I've been able to familiarize myself with different organizational softwares, such as Taiga and Trello. I make good use of these softwares to keep track of the progress of a project and my own tasks, particularly by following the agile method via the creation of sprints. I also like to use the softwares of Microsoft and Google for planning, communication and document creations. 
+During the various school projects and game jams I've done, I've been able to familiarize myself with different organizational softwares, such as **Taiga and Trello**. I make good use of these softwares to keep track of the **progress of a project and my own tasks**, particularly by following the **agile method via the creation of sprints**. I also like to use the softwares of **Microsoft and Google** for planning, communication and document creation. 
 
 ### Version Management
 
-The systematic use of Github in each of my school and Game Jam projects has left me with a solid knowledge base for understanding how this software works, how to merge versions correctly, and how to resolve conflicts between different branches.
+The systematic use of Github in each of my school and Game Jam projects has left me with a solid knowledge base for understanding how this software works, how to **merge versions correctly**, and how to **resolve conflicts** between different branches.
 
-### Level design
+### Level Design
 
-I have a good appreciation of Level Design and Level Art. Through school projects and game jams, I've been able to improve my level-building skills, and I now systematically apply an iterative process to make the flow and understanding of these levels as instinctive and fun as possible. 
+I have a good appreciation of Level Design and Level Art. Through school projects and game jams, I've been able to improve my level-building skills, and I now systematically apply an **iterative process** to make the flow and understanding of these levels as **instinctive and fun** as possible. 
 
 To find out more, take a look at [this page summarizing my biggest Level Design projects](../3_Projects/Others/LevelDesign_Projects/LevelDesign_Projects.md).
 
 ### Storytelling / Worldbuilding
 
-Before I became professionally interested in video games, my ambitions were focused on writing and storytelling. As a result, I have a keen interest in the narrative aspect of games (not just video games, but other media such as T-RPGs), particularly in worldbuilding and the feeling of living a story through an interactive medium. 
+Before I became professionally interested in video games, my ambitions were focused on **writing and storytelling**. As a result, I have a keen interest in the narrative aspect of games (not just video games, but other media such as T-RPGs), particularly in **worldbuilding** and the feeling of **living a story** through an interactive medium. 
 
 This is reflected in some of my projects, which you can discover on [this page where I show some details about Narrative Projects](../3_Projects/Others/StorytellingWorldbuilding_Projects/StorytellingWorldbuilding_Projects.md).
 
 ### Art & Video Softwares
 
-Even if my professional ambitions don't lie in visual creation, I have a good general knowledge of the artistic image (I graduated with a degree in cinema and audiovisual design). I have a good knowledge of Graphic Design software tools (Photoshop, Illustrator, Indesign) to produce visuals convincing enough to translate my ideas into a first draft, whether by producing an illustration or factorized drawing, by retouching an image or by using photobashing.
+Even if my professional ambitions don't lie in visual creation, I have a **good knowledge of art and image culture** (I have a degree in cinema and audiovisual studies). I also have a good knowledge of **Graphic Design software tools** (Photoshop, Illustrator, Indesign) to produce visuals convincing enough to translate my ideas into a first draft, whether by **producing an illustration or factorized drawing**, by **retouching a picture** or by using **photobashing**.
 
 If you're interested, you can take a look at my [2D creations on this page](../3_Projects/Others/2DArt_Projects/2DArt_Projects.md).
 
-I've also mastered the basics of Premiere Pro for video editing, which I've used to make mini-movies or 2D animation / stop motion, as well as a good understanding of Audacity for mixing and audio recording.
+I've also mastered the basics of **Premiere Pro** for video editing, which I've used to make mini-movies or 2D animation / stop motion, as well as a good understanding of **Audacity** for mixing and audio recording.
 
-You can check on this Animated short film “Les aventures de Patablou” to check my work on editing, animation and audio mixing: 
+You can take a look of this Animated short film - [Les Aventures de Patablou](https://youtu.be/US73xBjlbbo?si=cIYuoPGiqQgEc2hR) - to check my work on editing, animation and audio mixing. 
 
 ### 3D Engines
 
