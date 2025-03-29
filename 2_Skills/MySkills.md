@@ -71,7 +71,7 @@ Finally, although I've had less opportunity to experiment with these tools to th
 
 To find out more, you can check my graduation project [Tinykinesis](../3_Projects/Tinykinesis/Tinykinesis.md), which was extremely instructive in my learning of Unreal Engine's programming tools.
 
-As a bonus, I have a good understanding of the level design tools offered by the engine (you can see that in the category below).
+As a bonus, I have a good understanding of the level design tools offered by the engine (you can see it in the [relevant category]() below).
 
 ### Other Languages
 
