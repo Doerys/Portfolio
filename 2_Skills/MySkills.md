@@ -16,6 +16,8 @@ Finally, I'm comfortable doing R&D in a specific sector, genre or type of gamepl
 
 To ensure the feasibility of a game mechanism or function, I'm not afraid to go to the engine and iterate through prototyping. My knowledge of programming is an asset that I like to combine with my game design skills, so that I can associate theoretical reflection with concrete creation.
 
+[Gif R&D Prototypage Tinykinesis]
+
 ### Situation Design
 
 I'm able to do Situation Design, so that I can draw up a list of situations that I can mobilize to create a game sequence. I understand the basics of the Flow Model, so that this sequence of situations follows a balanced curve in terms of challenge. However, I'd like to gain more experience on this subject, to fully appropriate this framework.
