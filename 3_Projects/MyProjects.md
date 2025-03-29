@@ -15,7 +15,7 @@ Let’s give it a try!
 
 ## Clicker Quest Adventure
 
-Clicker Quest Adventure is a **Clicker with RPG mechanics** made on **Unity** and designed for telephone devices. It was made during Programming courses **for a month in 2024**.
+> Clicker Quest Adventure is a **Clicker with RPG mechanics** made on **Unity** and designed for telephone devices. It was made during Programming courses **for a month in 2024**.
 
 The aim of this project was to familiarize us with **UI / UX Programming** as well as **object-oriented Programming** on Unity. I really enjoyed working on this project, and am proud of the skills I was able to acquire.
 
