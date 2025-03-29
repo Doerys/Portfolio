@@ -56,3 +56,9 @@ Although the few gaps in artistic integration were not expected, it was an oppor
 
 ## More About This Projet
 [Itch.io page if you want to test this game!](https://maerys.itch.io/tick)
+
+---
+
+[Get back to the project page](../MyProjects.md)  
+[Get back to the main page](../README.md)
+
