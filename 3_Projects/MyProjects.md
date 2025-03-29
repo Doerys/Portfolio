@@ -1,8 +1,8 @@
 # My projects
 
-Here, you can find a recap of my biggest projects and what I did on them!
+Here, you can find a recap of my **biggest projects** and what I did on them!
 
-There are also many smaller projects I did, during game jams or student classes. You can take a look at my itch.io page to check on them!
+There are also many smaller projects I did during game jams or student classes. You can take a look at my [itch.io page](https://maerys.itch.io/) to check on them!
 
 Tinykinesis
 
