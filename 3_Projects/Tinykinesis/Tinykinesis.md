@@ -94,3 +94,8 @@ In __Gameplay Programming__, I learned a lot about Unreal Engine and became fami
 
 ## More About This Projet
 [Itch.io page if you want to test this game!](https://barna-bus.itch.io/tinykinesis)
+
+---
+
+[Get back to the project page](../MyProjects.md)
+[Get back to the main page](../README.md)
