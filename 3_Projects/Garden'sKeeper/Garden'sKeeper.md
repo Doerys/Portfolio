@@ -17,20 +17,32 @@ After working for 1 full month on this project in a scholar context, I went back
 
 ## What I Learned
 
+### Game Design
+
 This project was a very stimulating experience that challenged my game design skill. A lot of thought went into creating the character and player abilities, mobs, obstacles and puzzles so that they were both **fun and consistent** with the colorful world and light-hearted tone I wanted to establish. The final product really gives me the **old-school vibes of early Zelda games**, which is why I’m so proud of this project.
 
 ![Gameplay](Gif/Gameplay.gif)
 
+### Programming
+
 Even though the programming architecture is a step down from my current programming skills (there is a 2709 lines script file...), this project was a great step forward in improving my programming skills at the time. It was very instructive on **3C and AI programming** and on **data transmission between scenes**.
 
-In addition, this project was an opportunity to improve my **level designs**, **UI art** and **pixel art skills**. I invite you to click on the links below if you'd like to find out more!
+### Level Design
+
+This project was a challenging experience in setting up **interesting navigation through the levels**, and defining **level identities with art, mechanics and mobs**. It was also an opportunity to understand and apply the characteristics of early Zelda level designs: **valuing exploration** or **gaining abilities that unlock access** to new areas.
+
+I made the level design on **Tiled**, a 2D level design program compatible with the Phaser 3 game engine.
+
+### Art - Pixel Art, Chara Design and UI
+
+![ArtPresentation](Pictures/GardensKeeper_Presentation.png)
+
+Blablabla
 
 ## More About This Projet
 
 [Itch.io page if you want to test this game!](https://maerys.itch.io/gardens-keeper)  
-[Level Design Oriented Presentation](https://github.com/Doerys/Portfolio/blob/main/3_Projects/Others/Level%20Design_Projects/Level%20Design_Projects.md#gardens-keeper)  
-UI Art Oriented Presentation (later)  
-2D Art Oriented Presentation (later)  
+[Level Design pre-production document (in french)](Documents/ZeldaLike_LevelDesignDocument.pdf)  
 
 ---
 

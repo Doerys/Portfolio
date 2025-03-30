@@ -1,74 +1,120 @@
 # 2D Art Projects
 
-## Garden’s Keeper
+## Concepts arts / Chara Designs 
 
+### Souls' Guardian
+  
 > ESMA - Rennes  
-> Student Project - 2023 - 1 Month  
-> Phaser  3 - Javascript  
-> Solo project  
-
-![Banner](Pictures/Banner_ZeldaLike.png)
-
-Garden's Keeper is a first-year student project, the aim of which was to create a **Zelda-like game**. 
-
-This project was a challenging experience in setting up **interesting navigation through the levels**, and defining **level identities with art, mechanics and mobs**. It was also an opportunity to understand and apply the characteristics of early Zelda level designs: **valuing exploration** or **gaining abilities that unlock access** to new areas.
-
-I made the level design on **Tiled**, a 2D level design program compatible with the Phaser 3 game engine.
-
-### If you are interest to reach more about this project: 
-[Itch.io page if you want to test this game!](https://maerys.itch.io/gardens-keeper)  
-[Game Design & Programming Oriented Presentation](https://github.com/Doerys/Portfolio/blob/main/3_Projects/Garden's%20Keeper.md)  
-[Level Design pre-production document (in french)](Documents/ZeldaLike_LevelDesignDocument.pdf)  
-
-## G-Complex
-
-> ESMA - Rennes  
-> Student Project - 2023 - 1 Month  
-> Document  
-> Team of 5  
-
-G-Complex is a first-year student group project whose goal was to create connected levels of a **non-linear 2D Side Scroller**, following the level design model of **Metroidvania**. The game was based on the mechanics of the **VVVVV video game**.
-
-Working on this project has enabled me to learn how to **communicate with others on Level Design issues**, in order to create a continually **stimulating experience**, with a **progressive difficulty curve**. A great deal of thought was given to the **acquisition of new abilities** and their impact on level design situations and player's progression. In addition, the Metroidvania model prompted me to think about **backtracking** in level design, and how to keep the player motivated after reaching the end of a level.
-
-### If you are interest to reach more about this project: 
-[Level Design document (in french)](Documents/GComplex_LevelDesignDocument.pdf)
-
-## The Golden Harbor
-
-> ESMA - Rennes  
-> Student Project - 2023 - 1 Month  
-> Unreal Engine 5.2  
+> Student Project - 2022 - 1 Month  
+> Photoshop  
 > Solo project
 
-![Banner](Pictures/Banner_TheGoldenHarbor.png)
+![SoulsGuardian](Pictures/SoulsGuardian_Presentation.png)
 
-This 2nd-year student project was my first **3D level design project**. The goal was to create a level at the blocking stage and make navigation interesting, while giving a sense of scale by using different volume proportions.
+Souls’ Guardian is my first-year student video game project, the aim of which was to create a **2D Side Scroller** on Phaser 3.
 
-The Golden Harbor is an **Unreal Engine’s level**, where the player takes on the role of a pirate crossing a harbor to reach the top of a building hiding a treasure. 
+In terms of artistic creation, the goal was to create a **concept art for our in-game character**, who would evolve in a level divided in 3 biomes.
 
-The design of Golden Harbor enabled me to develop my **3D level design skills** and become familiar with the Unreal Engine tools used in blocking, such as **BSP Brushes** and the **Modeling Mode**. It was also the opportunity to learn more about **Lights** in Unreal, but also how to place them correctly in order to lead the player’s navigation through the level. Finally, I learned the basics of the **Post Process Volume**, enabling me to create a foggy atmosphere.
+I started with the concept of a fallen being seeking to gather lost souls on earth, to bring them back to paradise. I'm pretty proud of the way I've managed to radiate the concept of the character into different elements of the game, such as the **logo and the life interface**.
 
-### If you are interest to reach more about this project: 
-[Video - Walkthrough with commentary (in french)](https://youtu.be/HHwTF6_Nwms)  
+__If you are interest to reach more about this project__:   
+[Itch.io page if you want to test this game!](https://maerys.itch.io/souls-guardian)  
 
-## Battle For Olympus
+---
+
+### Alice Madness Return - Monster Concept
+
+![AliceMadness](Pictures/AliceMadnessReturn_Presentation.png)
 
 > ESMA - Rennes  
-> Student Project - 2024 - 3 Months  
-> Unreal Tournament Editor  
-> Solo Project
+> Student Project - 2022 - 2 Weeks  
+> Photoshop  
+> Solo project  
 
-![Banner](Pictures/Banner_BattleForOlympus.png)
+This project was made during 2D Graphics courses, and involved inventing an **original monster in the Alice Madness Return game universe**. It was a challenging project requiring much research into the artistic direction of the universe, in order to appropriate it and create something new.
 
-Battle For Olympus is a second-year student project using Unreal Tournament 4's map editor to create a completely new level within the original game. It's a capture-the-flag map, pitting teams of 10 players against each other.
+I wanted a monstrosity with tentacles, manipulating the doll heads sometimes found in the game. I even thought about this concept in terms of game design, imagining this monster as a mob designed to trap the player by luring him in with its luminous dolls.
 
-Working on this project has enabled me to improve my skills on blocking level design using Unreal Engine’s tools. But more than that, I was able to learn more about PvP and FPS gameplay-oriented level design. I also familiarize myself with the iterative process of level design while keeping a written record of this process, by creating a production document detailing my workflow.
+---
 
-The project also provided an opportunity to learn more about Unreal Engine features such as Landscape Mode, Exponential Height Fog and Lights.
+### Post-apocalyptic World Concept
 
-### If you are interest to reach more about this project: 
-[Production Document (in french)](Documents/BattleForOlympus_LevelDesignDocument.pdf)  
-[Video - Walkthrough with commentary (in french)](https://youtu.be/CUc7tQvNdik)  
-[Video - Full Match](https://youtu.be/cGsnamamYLk)  
+![PostApo](Pictures/PostApo_Presentation.png)
 
+> ESMA - Rennes  
+> Student Project - 2023 - 1 mouth and 2 weeks  
+> Photoshop  
+> Solo project
+
+This project was carried out as part of the 2D Graphics course, and involved **creating a character wielding a weapon, a vehicle and an entire environment** in a post-apocalyptic world. We had to respect certain **constraints**, and mine were that my post-apocalyptic world took place 2 years after a supernatural apocalypse, in Italy, in a world on the way to improvement.
+
+So I chose to set the scene in "La Nuova Gerusalemme", a **post-apocalyptic Vatican**, where divinely-elected people have been given the power to protect mankind from demons descending on earth, drawing inspiration from the New Testament's Apocalypse.
+
+Following the exercise instructions, the work mainly involved **photobashing** from photographs taken in course and images found on the Internet, but also **painting** for the vehicle. A great deal of **lighting** work was also carried out to make the environment and characters credible.
+
+---
+
+### Zbrush Monster Concept
+
+> ESMA - Rennes  
+> Student Project - 2024 - 2 Weeks  
+> Zbrush / Photoshop  
+> Solo project
+
+![Monster](Pictures/ZbrushMonster.png)
+
+This project was carried out as part of the 2D Graphic course and involved creating **a monster representing a fear**, using **Zbrush** to establish a sculpted base for the monster, then reworking it in **Photoshop** by adding textures, lights and details.
+
+I invented this concept of a **monster trapped inside an artist's head**. The posture of the limbs, the various motifs and elements used, as well as the colors, are designed to evoke anxiety, imposter syndrome and fear of blank page syndrome. My central ambition was to represent a fear that is both silent and deafening.
+
+---
+
+### Dungeons and Dragons Chara Design - Brigonia
+
+> Personal project - 2024 - 1 full day  
+> Photoshop  
+> Solo project
+
+![Brigonia](Pictures/Brigonia_Dessin.png)
+
+My goal was to create a complete representation of **one of my D&D characters**: Brigonia, a Rogue Half Moon. The style was largely inspired by the graphic style of the artist named [Elwensa](https://www.deviantart.com/elwensa).
+
+## 2D Assets & Animations
+
+### Immortal Glades
+
+> ESMA - Rennes  
+> Student Project - 2023 - 1 month and 2 weeks  
+> Illustrator / Animate  
+> Solo project
+
+![Brigonia](Pictures/ImmortalGlades_Presentation.png)
+
+Immortal Glades is my last video game project as a first-year student, with the aim of creating a **2D Platformer** game on Phaser 3. We were challenged on all levels: Game Design, Programming, Art and Level Design.
+
+In this **puzzle game**, you play a spirit trapped in a magical forest where animal spirits have been corrupted. Your main objective is to traverse the levels to heal them. To do this, you can **take possession of different animals**, each with specific abilities: the frog has a grappling light and can jump on walls, the boar is heavy and can move very fast when charging, and the crow can double-jump, glide and fire projectiles.
+
+I took advantage of this project to try my hand at a new artistic style: **flat design**, inspired by the game [Eternal Hope](https://store.steampowered.com/app/1162280/Eternal_Hope/?l=french), whose Artistic Direction seduced me. It was also an opportunity to gain experience with **Illustrator**. Working with vectorized files, I was able to use and practice **Animate**, to efficiently produce fluid, high-quality 2D animations. This project was extremely refreshing, as it allowed me to experiment with a whole new artistic creation process. The visual results really spoke to me.
+
+## UI / UX
+
+### Royal Rumble
+
+
+
+### Journey - Box Concept
+
+
+
+
+### Rolland de Rennes
+
+
+
+
+
+
+
+
+
+### Racing Game - Main Screen Concept
