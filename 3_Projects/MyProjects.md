@@ -33,7 +33,7 @@ I was the **Head Gameplay Programmer** in a 5-member team. I was in charge of cr
 
 ## Garden’s Keeper
 
-> Garden’s Keeper is a **Zelda Like** game created on Phaser 3 game engine. It was made during my first year of video game study in **2023**.
+> Garden’s Keeper is a pixel art **Zelda Like** game created on Phaser 3 game engine. It was made during my first year of video game study in **2023**.
 
 This is a **solo project** that I thought it would be interesting to present, in order to show a wide range of my skills, which I've had the opportunity to deploy within the same project. Basically, it includes **Game Design, Level Design, Gameplay Programming and 2D creation**.
 
