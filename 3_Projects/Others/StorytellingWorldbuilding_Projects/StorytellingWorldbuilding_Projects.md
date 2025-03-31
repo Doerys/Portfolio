@@ -69,4 +69,9 @@ Working on our civilization was an opportunity to reinforce my learning of **Wor
 I was also able to reinforce my skills in **creating maps and photobashing using Photoshop**. The scope of the project enabled me to learn how to work within a large group (a class of 20 students), including communication between teams to maintain consistency between our work.
 
 ### If you are interest to reach more about this project:
-- [Worldbuilding Bible (in french)]()
+- [Worldbuilding Bible (in french)](Documents/Worldbuilding_Bible.pdf)
+
+---
+
+[Get back to the project page](../../MyProjects.md)  
+[Get back to the main page](../../../README.md)

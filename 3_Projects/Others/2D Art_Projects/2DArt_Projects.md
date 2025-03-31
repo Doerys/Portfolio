@@ -171,3 +171,8 @@ This game was the subject of a major R&D effort, not only in terms of appropriat
 This work consisted in creating the **main screen of a Racing game**. I got the idea from a joke, mixing all the clichés of racing games (titles made up of words like “Extreme, etc.”, oversexualized characters, cars at full speed) and associating it with something incongruous, in this case cart racing in a bygone era.
 
 I had fun going all out with my joke, creating **a logo and buttons**. I also paid particular attention to the layout of the elements on the main screen, to make it legible, clear and attractive.
+
+---
+
+[Get back to the project page](../../MyProjects.md)  
+[Get back to the main page](../../../README.md)

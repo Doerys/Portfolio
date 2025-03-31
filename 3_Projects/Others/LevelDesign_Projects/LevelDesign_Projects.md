@@ -51,3 +51,8 @@ The project also provided an opportunity to learn more about Unreal Engine featu
 [Production Document (in french)](Documents/BattleForOlympus_LevelDesignDocument.pdf)  
 [Video - Walkthrough with commentary (in french)](https://youtu.be/CUc7tQvNdik)  
 [Video - Full Match](https://youtu.be/cGsnamamYLk)  
+
+---
+
+[Get back to the project page](../../MyProjects.md)  
+[Get back to the main page](../../../README.md)
