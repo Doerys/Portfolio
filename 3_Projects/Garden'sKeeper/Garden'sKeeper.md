@@ -2,8 +2,9 @@
 
 > ESMA - Rennes  
 > Student Project - 2023 - 2 Months  
+> Video Game - Solo project  
 > Phaser 3 - Javascript  
-> Solo Project  
+> Game Designer, Programmer, Level Designer, Artist
 
 ![Banner](Pictures/Banner.png)
 
@@ -37,12 +38,15 @@ I made the level design on **Tiled**, a 2D level design program compatible with 
 
 ![ArtPresentation](Pictures/GardensKeeper_Presentation.png)
 
-Blablabla
+A special effort was made in the artistic creation of this project. I drew a **concept art** for my main character, Pirlouit the Garden's Keeper. I also had to produce all the game's assets in **pixel art style**, including the **environments** (4 distinct biomes), the **characters and their animations** (the avatar, 4 mobs, 1 boss and 6 static npcs), and the **UI** (life, skills, money, dialog box, input information and the game's logo).
+
+I took great pleasure in conceptualizing this world, its characters and environments, following the vegetable garden theme, to make it colorful, fun and believable.
 
 ## More About This Projet
 
-[Itch.io page if you want to test this game!](https://maerys.itch.io/gardens-keeper)  
-[Level Design pre-production document (in french)](Documents/ZeldaLike_LevelDesignDocument.pdf)  
+- [Itch.io page if you want to test this game!](https://maerys.itch.io/gardens-keeper)  
+- [Level Design pre-production document (in french)](Documents/ZeldaLike_LevelDesignDocument.pdf)  
+- [Graphic intentions document (in french)](Documents/ZeldaLike_GraphicIntentionsDocument.pdf)  
 
 ---
 

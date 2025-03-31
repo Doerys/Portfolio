@@ -2,8 +2,9 @@
 
 > ESMA - Rennes  
 > Student Project - 2024 - 1 Month  
+> Video Game - Solo project  
 > Unity - C#  
-> Solo project
+> Game Designer, Programmer
 
 ![Banner](Pictures/Banner.png)
 
@@ -31,4 +32,9 @@ This project was also an opportunity to discover time management tools such as *
 ![Gameplay](Gif/Gameplay.gif)
 
 ## More About This Projet
-[Itch.io page if you want to test this game!](https://maerys.itch.io/idle-quest-adventure)
+- [Itch.io page if you want to test this game!](https://maerys.itch.io/idle-quest-adventure)
+
+---
+
+[Get back to the project page](../MyProjects.md)  
+[Get back to the main page](../../README.md)

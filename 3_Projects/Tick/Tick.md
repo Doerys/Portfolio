@@ -2,8 +2,8 @@
 
 > ESMA - Rennes  
 > Student Project - 2024 - 2 Months  
-> Unity - C#  
-> Team of 5  
+> Video Game - Team of 5   
+> Unity - C#    
 > Game Designer, Gameplay Programmer, Level Designer  
 
 ![Banner](Pictures/Banner.png)

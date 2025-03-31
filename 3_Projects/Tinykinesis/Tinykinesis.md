@@ -2,8 +2,8 @@
 
 > ESMA - Rennes  
 > Student Project - 2024 / 2025 - 10 Months  
-> Unreal Engine 5.4 - Blueprints  
-> Team of 10  
+> Video Game project - Team of 10  
+> Unreal Engine 5.4 - Blueprints    
 > Head Game Designer, Gameplay Programmer
 
 ## Context

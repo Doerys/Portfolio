@@ -6,8 +6,10 @@
   
 > ESMA - Rennes  
 > Student Project - 2022 - 1 Month  
-> Photoshop  
-> Solo project
+> Video Game - Solo project  
+> Phaser 3 / Tiled / Photoshop  
+> Game Designer, Programmer, Level Designer, Artist
+
 
 ![SoulsGuardian](Pictures/SoulsGuardian_Presentation.png)
 
@@ -18,20 +20,20 @@ In terms of artistic creation, the goal was to create a **concept art for our in
 I started with the concept of a fallen being seeking to gather lost souls on earth, to bring them back to paradise. I'm pretty proud of the way I've managed to radiate the concept of the character into different elements of the game, such as the **logo and the life interface**.
 
 __If you are interest to reach more about this project__:   
-[Itch.io page if you want to test this game!](https://maerys.itch.io/souls-guardian)  
+- [Itch.io page if you want to test this game!](https://maerys.itch.io/souls-guardian)  
 
 ---
 
 ### Alice Madness Return - Monster Concept
 
-![AliceMadness](Pictures/AliceMadnessReturn_Presentation.png)
-
 > ESMA - Rennes  
 > Student Project - 2022 - 2 Weeks  
-> Photoshop  
-> Solo project  
+> 2D Graphic Class - Solo project  
+> Photoshop    
 
-This project was made during 2D Graphics courses, and involved inventing an **original monster in the Alice Madness Return game universe**. It was a challenging project requiring much research into the artistic direction of the universe, in order to appropriate it and create something new.
+![AliceMadness](Pictures/AliceMadnessReturn_Presentation.png)
+
+This project involved inventing an **original monster in the Alice Madness Return game universe**. It was a challenging project requiring much research into the artistic direction of the universe, in order to appropriate it and create something new.
 
 I wanted a monstrosity with tentacles, manipulating the doll heads sometimes found in the game. I even thought about this concept in terms of game design, imagining this monster as a mob designed to trap the player by luring him in with its luminous dolls.
 
@@ -39,14 +41,14 @@ I wanted a monstrosity with tentacles, manipulating the doll heads sometimes fou
 
 ### Post-apocalyptic World Concept
 
-![PostApo](Pictures/PostApo_Presentation.png)
-
 > ESMA - Rennes  
 > Student Project - 2023 - 1 mouth and 2 weeks  
-> Photoshop  
-> Solo project
+> 2D Graphic Class - Solo project  
+> Photoshop
 
-This project was carried out as part of the 2D Graphics course, and involved **creating a character wielding a weapon, a vehicle and an entire environment** in a post-apocalyptic world. We had to respect certain **constraints**, and mine were that my post-apocalyptic world took place 2 years after a supernatural apocalypse, in Italy, in a world on the way to improvement.
+![PostApo](Pictures/PostApo_Presentation.png)
+
+This project involved **creating a character wielding a weapon, a vehicle and an entire environment** in a post-apocalyptic world. We had to respect certain **constraints**, and mine were that my post-apocalyptic world took place 2 years after a supernatural apocalypse, in Italy, in a world on the way to improvement.
 
 So I chose to set the scene in "La Nuova Gerusalemme", a **post-apocalyptic Vatican**, where divinely-elected people have been given the power to protect mankind from demons descending on earth, drawing inspiration from the New Testament's Apocalypse.
 
@@ -58,12 +60,12 @@ Following the exercise instructions, the work mainly involved **photobashing** f
 
 > ESMA - Rennes  
 > Student Project - 2024 - 2 Weeks  
+> 2D Graphic Class - Solo project  
 > Zbrush / Photoshop  
-> Solo project
 
 ![Monster](Pictures/ZbrushMonster.png)
 
-This project was carried out as part of the 2D Graphic course and involved creating **a monster representing a fear**, using **Zbrush** to establish a sculpted base for the monster, then reworking it in **Photoshop** by adding textures, lights and details.
+This project involved creating **a monster representing a fear**, using **Zbrush** to establish a sculpted base for the monster, then reworking it in **Photoshop** by adding textures, lights and details.
 
 I invented this concept of a **monster trapped inside an artist's head**. The posture of the limbs, the various motifs and elements used, as well as the colors, are designed to evoke anxiety, imposter syndrome and fear of blank page syndrome. My central ambition was to represent a fear that is both silent and deafening.
 
@@ -72,8 +74,8 @@ I invented this concept of a **monster trapped inside an artist's head**. The po
 ### Dungeons and Dragons Chara Design - Brigonia
 
 > Personal project - 2024 - 1 full day  
+> Art project - Solo project  
 > Photoshop  
-> Solo project
 
 ![Brigonia](Pictures/Brigonia_Dessin.png)
 
@@ -85,8 +87,8 @@ My goal was to create a complete representation of **one of my D&D characters**:
 
 > ESMA - Rennes  
 > Student Project - 2023 - 1 month and 2 weeks  
+> Video Game - Solo project  
 > Illustrator / Animate  
-> Solo project
 
 ![Brigonia](Pictures/ImmortalGlades_Presentation.png)
 
@@ -100,21 +102,72 @@ I took advantage of this project to try my hand at a new artistic style: **flat 
 
 ### Royal Rumble
 
+> Global Game Jam - Theme “Roles Reversed”  
+> Game Jam project - 2023 - 2 days  
+> Video Game - Team of 6  
+> Phaser 3 / Photoshop  
+> Game Designer, UI / UX Artist
 
+![RoyalRumble](Pictures/RoyalRumble_Presentation.png)
 
+Royal Rumble is a **Tower Defense** game which, halfway through, **reverses its gameplay** by putting the player in the role of the attacker. Beyond the gameplay, we also wanted to showcase duality through the art direction, marking an opposition between the card game and chess themes.
+
+In addition to my role as Game Designer, I designed user interface elements, following a graphic style with strong brushstrokes. The aim was to make the UI as clear as possible, using **icons and colors that spoke to the player**, in the tradition of Tower Defense games.
+
+This game was then the subject of a UI / UX coursework, where I was able to set up a **user survey** from which I collected data for an analysis.
+
+#### __If you are interest to reach more about this project__:   
+
+- [Itch.io page if you want to test this game!](https://maerys.itch.io/royal-rumble)  
+- [UI / UX Analysis Document (in french)](Documents/RoyalRumble_UIUXAnalysis.pdf)  
+- [Wireframe (in french)](Documents/RoyalRumble_Wireframe.pdf)  
+
+---
 ### Journey - Box Concept
 
+> ESMA - Rennes  
+> Student project - 2023 - 4 hours  
+> UI / UX Class - Solo project  
+> Photoshop  
 
+![Journey](Pictures/Journey_Mockup.jpg)
 
+This project involved conceptualizing the box for a **special edition of the Journey game**. It was a real challenge to appropriate an Artistic Direction and make it original for a special edition, while ensuring that the necessary information was present and correctly placed.
 
+---
 ### Rolland de Rennes
 
+> ESMA - Rennes  
+> Student project - 2023 - 2 months  
+> Video Game - Team of 3  
+> Unity / Illustrator  
+> Game Designer, UI / UX Artist  
 
+![RollandDeRennes](Pictures/RollandDeRennes_Presentation.png)
 
+Rolland de Rennes is a semester-long project by my second-year student, developed on Unity. The aim was to create a **serious game** for **mobile** device, designed to promote an element of the **French Grand Ouest heritage**.
 
+We chose to create an **Detective game**, in which our character would have to explore crime scenes based on real murders that marked the history of Brittany during the 19th and 20th centuries. The player's objective is to solve each mystery by correctly answering a series of questions.
 
+This game was the subject of a major R&D effort, not only in terms of appropriating heritage elements, but above all in terms of UI / UX. After analyzing numerous references, I produced **mockups and wireframes**. During production, in parallel with my tasks as Game Designer, I was responsible for **creating the UI / UX assets**, inspired in particular by art nouveau aesthetics.
 
+#### __If you are interest to reach more about this project__:   
 
+- [Itch.io page if you want to test this game!](https://maerys.itch.io/rolland-de-rennes)  
+- [Game Design Document (in french)](Documents/RollandDeRennes_GameDesignDocument.pdf)  
+- [UI / UX Document (in french)](Documents/RollandDeRennes_UIUXDocument.pdf)  
+- [User Servey Analysis (in french)](Documents/RollandDeRennes_UserSurveyAnalysis.pdf)
 
-
+---
 ### Racing Game - Main Screen Concept
+
+> ESMA - Rennes  
+> Student project - 2023 - 3 hours  
+> UI / UX Class - Solo project  
+> Photoshop  
+
+![RacingGame](Pictures/RacingGameMainScreen.png)
+
+This work consisted in creating the **main screen of a Racing game**. I got the idea from a joke, mixing all the clichés of racing games (titles made up of words like “Extreme, etc.”, oversexualized characters, cars at full speed) and associating it with something incongruous, in this case cart racing in a bygone era.
+
+I had fun going all out with my joke, creating **a logo and buttons**. I also paid particular attention to the layout of the elements on the main screen, to make it legible, clear and attractive.
