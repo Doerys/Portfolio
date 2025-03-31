@@ -4,6 +4,8 @@ Here, you can find a review of my **biggest projects** and what I did on them!
 
 There are also many smaller projects I did during game jams or student classes. You can take a look at my [itch.io page](https://maerys.itch.io/) to check on them!
 
+![Banner](_Files/Banner_Projects.png)
+
 ## Tinykinesis
 
 > Tinykinesis is a **Horde Shooter** game made with **Unreal Engine 5** in Blueprint in **2024-2025**.

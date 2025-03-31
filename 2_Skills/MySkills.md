@@ -7,6 +7,8 @@ I'm currently completing my degree in Video Game Development, specializing in Ga
 - [Others Skills and Softwares](https://github.com/Doerys/Portfolio/blob/main/2_Skills/MySkills.md#others-skills--softwares)
 - [Soft Skills](https://github.com/Doerys/Portfolio/blob/main/2_Skills/MySkills.md#soft-skills)
 
+![Banner](_Files/Banner_Skills.png)
+
 ## Game Design Skills
 
 ### Creativity / Concepts

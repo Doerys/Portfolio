@@ -1,5 +1,7 @@
 # Here's a small portrait of things that bring me joy
 
+![Banner](Banners/Banner_WhatILike.png)
+
 ## Video-Games
 
 ### The Last of Us serie
