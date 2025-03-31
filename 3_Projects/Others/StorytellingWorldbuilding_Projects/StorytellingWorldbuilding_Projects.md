@@ -38,6 +38,25 @@ Finally, this project was also an opportunity to familiarize myself with **Wonde
 ### If you are interest to reach more about this project: 
 - [Literary Bible (in french)](Documents/LiteraryBible_AwayFromMe.pdf)
 
+## Jules achète du pain
+
+> Global Game Jam - Theme “Duality”  
+> Game Jam project - 2023 - 2 days  
+> Video Game - Team of 5  
+> Unity  
+> Game Designer, Narrative Designer, Sound Designer  
+
+![Banner](Pictures/Banner_Jules.png)
+
+In this game, the player takes on the role of Jules, an ordinary man who has to cross a town to buy bread. But along the way, Jules encounters a series of absurd situations that systematically confront him with **two choices**: one leading to death, the other to the continuation of the story. But both choices are absurd, and **there is no way of knowing which is the right one**.
+
+During the creation of the game, I was responsible for conceiving the story, making the narrative choices and writing the narrative story. I also carried out sound and musical research to give the game its ambience.
+
+**Post Portem**: As much fun as we had imagining this game, and as playable as it is, I have the feeling that **our ambitions were far too big** for a simple game jam. Our highly productive artists found it hard to cope with the artistic workload involved in such a concept. If I had to do it all over again, I'd scale back the project's ambitions, particularly as regards the game's narrative branches, which systematically involved new illustrations.
+
+### If you are interest to reach more about this project: 
+- [Itch.io page if you want to test this game!](https://nonogg.itch.io/jules-achte-du-pain)  
+
 ## L’échappée du Red Phoenix
 
 > ESMA - Rennes  
@@ -52,6 +71,23 @@ This school project was produced as part of a narratology course. The goal was t
 ### If you are interest to reach more about this project: 
 - [Scenario document (in french)](Documents/ScenarioTRPGL'echappeeDuRedPhoenix.pdf)  
 - [L’Etoile d’A’lanir, the short story that inspired this scenario (in french)](Documents/ShortStory_L'Etoiled'A'lanir.pdf)
+
+## Memory Day
+
+> Build Your Own Game 2023 - Themes "One day, it will all make sense" / "That's not how it happened"  
+> Game Jam project - 2023 - 2 days  
+> Video Game - Team of 3  
+> Phaser 3  
+> Game Designer, Narrative Designer, Programmer  
+
+![Banner](Pictures/Banner_MemoryDay.png)
+
+Memory Day is a very simple **puzzle game**, with the ambition of focusing on a short but touching story. After a mother and daughter bury a time capsule, the player is propelled years later and opens the capsule, plunging into the memories of a mother-daughter relationship.
+
+During this game jam, I took on the role of **Game Designer**, working out the little puzzles to be solved, **Narrative Designer**, drawing up the narrative framework, and **Programmer**, developing the game on Phaser 3. The experience was extremely refreshing. We were able to take advantage of the game jam context to explore the narrative dimension of video games while keeping things very simple, without falling into the trap of over-ambitiousness, unlike Jules achète du pain.
+
+### If you are interest to reach more about this project: 
+- [Itch.io page if you want to test this game!](https://maerys.itch.io/memory-day)  
 
 ## Jiveh Deha - Yoha Vhayhe Civilization
 
