@@ -2,7 +2,7 @@
 
 ## G-Complex
 
-> Esma - Rennes  
+> ESMA - Rennes  
 > Student Project - 2023 - 1 Month  
 > Level Design Class - Team of 5  
 > Tiled / Document
@@ -16,7 +16,7 @@ Working on this project has enabled me to learn how to **communicate with others
 
 ## The Golden Harbor
 
-> Esma - Rennes  
+> ESMA - Rennes  
 > Student Project - 2023 - 2 Months  
 > Level Design Class - Solo Project  
 > Unreal Engine 5.2  
@@ -34,7 +34,7 @@ The design of Golden Harbor enabled me to develop my **3D level design skills** 
 
 ## Battle For Olympus
 
-> Esma - Rennes  
+> ESMA - Rennes  
 > Student Project - 2024 - 3 Months  
 > Level Design Class - Solo Project  
 > Unreal Tournament Editor  
