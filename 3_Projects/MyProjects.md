@@ -19,7 +19,7 @@ I was the **Lead Game Designer** and for the second half of production I was als
 
 The aim of this project was to familiarize us with **UI / UX Programming** as well as **object-oriented Programming** on Unity. I really enjoyed working on this project, and am proud of the skills I was able to acquire.
 
-[What I did](ClickerQuestAdventure/ClickerQuestAdventure.md)  
+[What I did](Clicker%20Quest%20Adventure/ClickerQuestAdventure.md)  
 [Let’s give it a try!](https://maerys.itch.io/idle-quest-adventure)
 
 ## Tick
@@ -37,8 +37,16 @@ I was the **Head Gameplay Programmer** in a 5-member team. I was in charge of cr
 
 This is a **solo project** that I thought it would be interesting to present, in order to show a wide range of my skills, which I've had the opportunity to deploy within the same project. Basically, it includes **Game Design, Level Design, Gameplay Programming and 2D creation**.
 
-[What I did](Garden'sKeeper/Garden'sKeeper.md)  
+[What I did](Garden's%20Keeper/Garden'sKeeper.md)  
 [Let’s give it a try!](https://maerys.itch.io/gardens-keeper)
+
+## Others Projects
+
+If you're interested, I've also carried out a number of projects that have enabled me to acquire skills in other disciplines:
+
+- [2D Art Projects](Others/2D%20Art_Projects/2DArt_Projects.md)
+- [Level Design Projects](Others/LevelDesign_Projects/LevelDesign_Projects.md)
+- [Storytelling & Worldbuilding Projects](Others/StorytellingWorldbuilding_Projects/StorytellingWorldbuilding_Projects.md)
 
 ---
 
