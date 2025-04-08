@@ -52,25 +52,20 @@ During the R&D phase, my investment in 3C programming was simply limited to __fu
 
 Broadly speaking, the 3Cs can be summarized as __FPV camera management__, and the programming of player __movement abilities__ (running, double jump, dash) and __telekinesis__ (grabbing elements of the scenery to throw or crash into mobs). Part of the development involved creating gameplay elements with __specific behaviors__, such as projectiles. I also partially __implemented the animations__ in the Animations Blueprints.
 
-[Montrer une séquence de gameplay]
+![Gameplay](Gif/Tinykinesis_Demonstration.gif)
 
-As I took on the role of 3C programmer late in production, I had to discover and familiarize myself with an architecture and programming structure that was already in place, but which lacked opitimization after the 3C prototype phase. My job was therefore to reappropriate and optimize this code, notably by __restructuring the architecture__ to better implement functions, by changing the parenting systems, and by using the functionalities offered by Unreal Engine such as Blueprint Interfaces, Events Dispatcher, Actor Components or Data Assets.
+As I took on the role of 3C programmer late in production, I had to discover and familiarize myself with an architecture and programming structure that was already in place, but which lacked opitimization after the 3C prototype phase. My job was therefore to reappropriate and optimize this code, notably by __restructuring the architecture__ to better implement functions, by changing the parenting systems, and by using the functionalities offered by Unreal Engine such as Blueprint Interfaces, Events Dispatcher, Actor Components, Data Tables and Data Assets.
 
 _Here's the state of the architecture after I restructured and optimized it._
 ![Architecture V2](Pictures/ArchitectureTinykinesis_V2.png)
 
 I was also able to set up a save and respawn system based on checkpoints. This involved creating a Level Manager using Game Instance and Game Save to store player data and the state of game elements that could be “destroyed” by the player, in order to make them appear (or not) in the level after a respawn.
 
-[Montrer dans le moteur le système de save]
-
 ### __Documents, Presentations & 2D Art__
 
 In order to present our concept, research and work, we frequently had to create documents and slide presentations. My job was to __establish the structure of the presentation, the chaptering, the argumentation and the layout of the elements__ in the documents/presentations. The presentation involved __creating templates__ using Google Slides.
 
-Here's some examples of documents & presentations: 
-
-- R&D Document (later)
-- [Vertical Slice Presentation](https://docs.google.com/presentation/d/1kQIxMveelr9L9FkTKPtwQgkKWRK9zZWhQdfQXfuI8n4/edit?usp=sharing)
+Here's a example of a presentation we made, during [Vertical Slice milestone](https://docs.google.com/presentation/d/1kQIxMveelr9L9FkTKPtwQgkKWRK9zZWhQdfQXfuI8n4/edit?usp=sharing).
 
 I was able to lend a hand to a member of our group for the 2D creation of the [Game Design Document](Documents/Tinykinesis_GameConceptDocument.pdf), using Photoshop to create a thematic skin.
 
@@ -90,7 +85,7 @@ Because of its duration and scope, this project taught me a lot. I learned how t
 
 In __Game Design__, it was a challenging project in terms of __adaptations and revisions__ to be made to the concept over the long term, taking into account feedback throughout production. I was also able to develop skills in __spreadsheet management, balancing and document creation__.
 
-In __Gameplay Programming__, I learned a lot about Unreal Engine and became familiar with a __wide range of features and tools__, including Characters and Controllers, Widget Blueprints, Input Actions, Actor Components, Event Dispatchers, Blueprint Interfaces and Animation Blueprints. I also understood the logic of Behavior Trees and Blackboards, even though I wasn't in charge of AI programming. I dabbled a little in Materials and Niagara Systems, to understand the basics, but I wasn't in charge of that either. Finally, in terms of thinking about programming, I __developed my programming architecture skills__ a lot.
+In __Gameplay Programming__, I learned a lot about Unreal Engine and became familiar with a __wide range of features and tools__, including Characters and Controllers, Widget Blueprints, Input Actions, Actor Components, Event Dispatchers, Blueprint Interfaces, Structures, Data Tables, Data Assets and Animation Blueprints. I also understood the logic of Behavior Trees and Blackboards, even though I wasn't in charge of AI programming. I dabbled a little in Materials and Niagara Systems, to understand the basics, but I wasn't in charge of that either. Finally, in terms of thinking about programming, I __developed my programming architecture skills__ a lot.
 
 ## More About This Projet
 [Itch.io page if you want to test this game!](https://barna-bus.itch.io/tinykinesis)

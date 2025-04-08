@@ -1,0 +1,58 @@
+# Level Design Projects
+
+## G-Complex
+
+> ESMA - Rennes  
+> Student Project - 2023 - 1 Month  
+> Level Design Class - Team of 5  
+> Tiled / Document
+
+G-Complex is a first-year student group project whose goal was to create connected levels of a **non-linear 2D Side Scroller**, following the level design model of **Metroidvania**. The game was based on the mechanics of the **VVVVV video game**.
+
+Working on this project has enabled me to learn how to **communicate with others on Level Design issues**, in order to create a continually **stimulating experience**, with a **progressive difficulty curve**. A great deal of thought was given to the **acquisition of new abilities** and their impact on level design situations and player's progression. In addition, the Metroidvania model prompted me to think about **backtracking** in level design, and how to keep the player motivated after reaching the end of a level.
+
+### If you are interest to reach more about this project: 
+[Level Design document (in french)](Documents/GComplex_LevelDesignDocument.pdf)
+
+## The Golden Harbor
+
+> ESMA - Rennes  
+> Student Project - 2023 - 2 Months  
+> Level Design Class - Solo Project  
+> Unreal Engine 5.2  
+
+![Banner](Pictures/Banner_TheGoldenHarbor.png)
+
+This 2nd-year student project was my first **3D level design project**. The goal was to create a level at the blocking stage and make navigation interesting, while giving a sense of scale by using different volume proportions.
+
+The Golden Harbor is an **Unreal Engine’s level**, where the player takes on the role of a pirate crossing a harbor to reach the top of a building hiding a treasure. 
+
+The design of Golden Harbor enabled me to develop my **3D level design skills** and become familiar with the Unreal Engine tools used in blocking, such as **BSP Brushes** and the **Modeling Mode**. It was also the opportunity to learn more about **Lights** in Unreal, but also how to place them correctly in order to lead the player’s navigation through the level. Finally, I learned the basics of the **Post Process Volume**, enabling me to create a foggy atmosphere.
+
+### If you are interest to reach more about this project: 
+[Video - Walkthrough with commentary (in french)](https://youtu.be/HHwTF6_Nwms)  
+
+## Battle For Olympus
+
+> ESMA - Rennes  
+> Student Project - 2024 - 3 Months  
+> Level Design Class - Solo Project  
+> Unreal Tournament Editor  
+
+![Banner](Pictures/Banner_BattleForOlympus.png)
+
+Battle For Olympus is a second-year student project using **Unreal Tournament 4's map editor** to create a completely new level within the original game. It's a **capture-the-flag map**, pitting teams of 10 players against each other.
+
+Working on this project has enabled me to improve my skills on **blocking level design using Unreal Engine’s tools**. But more than that, I was able to learn more about **PvP and FPS gameplay-oriented level design**. I also familiarize myself with the **iterative process** of level design while keeping a written record of this process, by creating a production document detailing my workflow.
+
+The project also provided an opportunity to learn more about Unreal Engine features such as **Landscape Mode, Exponential Height Fog and Lights**.
+
+### If you are interest to reach more about this project: 
+[Production Document (in french)](Documents/BattleForOlympus_LevelDesignDocument.pdf)  
+[Video - Walkthrough with commentary (in french)](https://youtu.be/CUc7tQvNdik)  
+[Video - Full Match](https://youtu.be/cGsnamamYLk)  
+
+---
+
+[Get back to the project page](../../MyProjects.md)  
+[Get back to the main page](../../../README.md)

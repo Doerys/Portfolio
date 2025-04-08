@@ -23,7 +23,8 @@ Finally, I'm comfortable doing **R&D in a specific sector, genre or type of game
 
 To ensure the feasibility of a game mechanism or function, I'm not afraid to go to the engine and **iterate through prototyping**. My knowledge of programming is an asset that I like to combine with my game design skills, so that I can **associate theoretical reflection with concrete creation**.
 
-[Gif R&D Prototypage Tinykinesis]()
+![Gif R&D Prototypage Tinykinesis](_Files/Tinykinesis_TelekinesisPrototyping.gif)  
+*You can see here a feature I prototyped in one day on the game engine, during the R&D phase of [Tinykinesis](../3_Projects/Tinykinesis/Tinykinesis.md). The goal was to check the possibility of implementing telekinesis capabilities.*
 
 ### Situation Design
 
@@ -39,9 +40,14 @@ I hunt down code repetition, and try to **factorize** it a lot. I generally rely
 
 ### Unity (C#)
 
-I have good practice in **UI / UX programming**, and know how to set up a responsive game interface that is fun to interact with. I have a sufficient knowledge base to implement **simple 3C features** on Unity, although I'd like to experiment more in this area.
+I have good practice in **UI / UX programming**, and know how to set up a responsive interface that is fun to interact with. I have a sufficient knowledge base to implement **simple 3C features** on Unity, although I'd like to experiment more in this area.
+
+![Gif Clicker](_Files/Clicker_ResponsiveUI.gif)
+*Here's an example of a Responsive UI I made for a phone clicker game: [Clicker Quest Adventure](../3_Projects/Clicker%20Quest%20Adventure/ClickerQuestAdventure.md)*.
 
 When it comes to optimization, I know how to ensure that functions are implemented correctly, in an optimized hierarchy, notably by using **Prefabs**. I also know how to do Data-oriented Programming using **Scriptable Objects** and **Enums**.
+
+I would add that I am also able to follow **the production of mobile games**. In fact, I've worked on two student projects whose aim was to create games for mobile devices: [Clicker Quest Adventure](../3_Projects/Clicker%20Quest%20Adventure/ClickerQuestAdventure.md) and [Rolland de Rennes](https://maerys.itch.io/rolland-de-rennes).
 
 Finally, although I've had less opportunity to experiment with these tools to the point of making them my own, I have some basic knowledge of:
 
@@ -57,9 +63,9 @@ To find out more, I invite you to take a look at these various projects done on 
 
 I've used **Character, Controller and Input Actions** enough to build up a good knowledge base of how to use them correctly for 3C Programming. I also know how to **handle physics** within the engine, and I have enough experience of collision management to understand how to set up and work with **Collision Presets**.
 
-[Mettre un exemple de Tinykinesis]()
+![Tinykinesis Gameplay](_Files/Tinykinesis_Demonstration.gif)
 
-Concerning optimization, I know how to ensure proper implementation of functions within an optimized hierarchy, using **Events Dispatcher and Blueprint Interfaces**. I also can do data-oriented programming using **Data Assets and Enums**.
+Concerning optimization, I know how to ensure proper implementation of functions within an optimized hierarchy, using **Events Dispatcher and Blueprint Interfaces**. I also can do data-oriented programming using **Data Assets, Data Tables and Enums**.
 
 Overall, I understand the benefits of **Game Instance and Game Save**, and am able to use them to transfer data between scenes. 
 
@@ -93,19 +99,19 @@ The systematic use of Github in each of my school and Game Jam projects has left
 
 I have a good appreciation of Level Design and Level Art. Through school projects and game jams, I've been able to improve my level-building skills, and I now systematically apply an **iterative process** to make the flow and understanding of these levels as **instinctive and fun** as possible. 
 
-To find out more, take a look at [this page summarizing my biggest Level Design projects](../3_Projects/Others/LevelDesign_Projects/LevelDesign_Projects.md).
+To find out more, take a look at [this page summarizing my biggest Level Design projects](../3_Projects/Others/Level%20Design_Projects/LevelDesign_Projects.md).
 
 ### Storytelling / Worldbuilding
 
 Before I became professionally interested in video games, my ambitions were focused on **writing and storytelling**. As a result, I have a keen interest in the narrative aspect of games (not just video games, but other media such as T-RPGs), particularly in **worldbuilding** and the feeling of **living a story** through an interactive medium. 
 
-This is reflected in some of my projects, which you can discover on [this page where I show some details about Narrative Projects](../3_Projects/Others/StorytellingWorldbuilding_Projects/StorytellingWorldbuilding_Projects.md).
+This is reflected in some of my projects, which you can discover on [this page where I show some details about Narrative Projects](../3_Projects/Others/Storytelling%20Worldbuilding_Projects/StorytellingWorldbuilding_Projects.md).
 
 ### Art & Video Softwares
 
 Even if my professional ambitions don't lie in visual creation, I have a **good knowledge of art and image culture** (I have a degree in cinema and audiovisual studies). I also have a good knowledge of **Graphic Design software tools** (Photoshop, Illustrator, Indesign) to produce visuals convincing enough to translate my ideas into a first draft, whether by **producing an illustration or factorized drawing**, by **retouching a picture** or by using **photobashing**.
 
-If you're interested, you can take a look at my [2D creations on this page](../3_Projects/Others/2DArt_Projects/2DArt_Projects.md).
+If you're interested, you can take a look at my [2D creations on this page](../3_Projects/Others/2D%20Art_Projects/2DArt_Projects.md).
 
 I've also mastered the basics of **Premiere Pro** for video editing, which I've used to make short films or 2D animation / stop motion, as well as a good understanding of **Audacity** for mixing and audio recording.
 
