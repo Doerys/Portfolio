@@ -98,6 +98,11 @@ In this **puzzle game**, you play a spirit trapped in a magical forest where ani
 
 I took advantage of this project to try my hand at a new artistic style: **flat design**, inspired by the game [Eternal Hope](https://store.steampowered.com/app/1162280/Eternal_Hope/?l=french), whose Artistic Direction seduced me. It was also an opportunity to gain experience with **Illustrator**. Working with vectorized files, I was able to use and practice **Animate**, to efficiently produce fluid, high-quality 2D animations. This project was extremely refreshing, as it allowed me to experiment with a whole new artistic creation process. The visual results really spoke to me.
 
+*Here are a few game sequences, to show you the animations I was able to produce:*
+![Gif1](Gif/Immortal%20Glades_Anims1.gif)
+![Gif2](Gif/Immortal%20Glades_Anims2.gif)
+![Gif3](Gif/Immortal%20Glades_Anims3.gif)
+
 ## UI / UX
 
 ### Royal Rumble
