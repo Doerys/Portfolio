@@ -90,7 +90,7 @@
 
 ### 2000, 2010's Pop (Lady Gaga, Avril Lavigne, Ariana Grande, The Chainsmokers, Coldplay and more)
 
-### Musicals (Wicked, The Greatest Showman, West Side Story, Moulin Rouge)
+### Musicals (Wicked, The Greatest Showman, West Side Story, Disney Animated Movies, Hazbin Hotel)
 
 ## Others
 
