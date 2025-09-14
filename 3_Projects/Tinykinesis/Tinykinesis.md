@@ -12,7 +12,7 @@ At the end of my studies at ESMA - Rennes, the graduation project was the **prod
 
 The game is a **Horde Shooter set in the colorful world of a tiny amusement park**. The player embodies Spark, a fairy who manipulates the environment with **Telekinesis**, in order to eliminate hostile elves who have invaded this park in **explosive and nervous first-person combats**, until managing to completely rid it of its invaders.
 
-Tinykinesis is divided into three parts: an introductory level, a hub to which the player returns several times, and a level in an aquatic-themed area. In each level, the player follows a linear path through a **series of fights and closed arenas**.
+Tinykinesis is divided into four parts: an introductory level, a hub to which the player returns several times, a level in an aquatic-themed area, and a final area with a boss fight. In each level, the player follows a linear path through a **series of fights and closed arenas**.
 
 ## What I Did
 
@@ -68,6 +68,8 @@ In order to present our concept, research and work, we frequently had to create 
 Here's a example of a presentation we made, during [Vertical Slice milestone](https://docs.google.com/presentation/d/1kQIxMveelr9L9FkTKPtwQgkKWRK9zZWhQdfQXfuI8n4/edit?usp=sharing).
 
 I was able to lend a hand to a member of our group for the 2D creation of the [Game Design Document](Documents/Tinykinesis_GameConceptDocument.pdf), using Photoshop to create a thematic skin.
+
+Finally, I made a 
 
 ### __Project organization__
 
