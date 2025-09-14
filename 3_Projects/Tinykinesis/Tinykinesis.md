@@ -5,11 +5,7 @@
 > Video Game project - Team of 10  
 > Unreal Engine 5.4 - Blueprints    
 > Head Game Designer, Gameplay Programmer  
-<<<<<<< Updated upstream
 > Awarded Best Game Design - ESMA's Grand Prix 2025
-=======
-> Awarded Best Game Design - ESMA Grand Prix 2025
->>>>>>> Stashed changes
 
 ![Banner](Pictures/Banner.jpg)
 
@@ -78,7 +74,7 @@ Finally, I worked with artists to implement **feedbacks** designed to clarify ga
 
 In order to present our concept, research and work, we frequently had to create documents and slide presentations. My job was to __establish the structure of the presentation, the chaptering, the argumentation and the layout of the elements__ in the documents/presentations. The presentation involved __creating templates__ using Google Slides.
 
-Here's a example of a presentation we made, during [Vertical Slice milestone](https://docs.google.com/presentation/d/1gudoRr8atrqiuqD4mv-PJ6hm-G9xmyxSLG8myliN2h8/edit?usp=sharing).
+Here's a example of a presentation we made, during [ESMA's Grand Prix 2025](https://docs.google.com/presentation/d/1gudoRr8atrqiuqD4mv-PJ6hm-G9xmyxSLG8myliN2h8/edit?usp=sharing).
 
 I was able to lend a hand to a member of our group for the 2D creation of the [Game Design Document](Documents/Tinykinesis_GameConceptDocument.pdf), using Photoshop to create a thematic skin.
 
