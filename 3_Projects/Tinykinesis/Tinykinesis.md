@@ -5,7 +5,11 @@
 > Video Game project - Team of 10  
 > Unreal Engine 5.4 - Blueprints    
 > Head Game Designer, Gameplay Programmer  
+<<<<<<< Updated upstream
 > Awarded Best Game Design - ESMA's Grand Prix 2025
+=======
+> Awarded Best Game Design - ESMA Grand Prix 2025
+>>>>>>> Stashed changes
 
 ![Banner](Pictures/Banner.jpg)
 
@@ -16,6 +20,8 @@ At the end of my studies at ESMA - Rennes, the graduation project was the **prod
 The game is a **Horde Shooter set in the colorful world of a tiny amusement park**. The player embodies Spark, a fairy who manipulates the environment with **Telekinesis**, in order to eliminate hostile elves who have invaded this park in **explosive and nervous first-person combats**, until managing to completely rid it of its invaders.
 
 Tinykinesis is divided into four parts: an introductory level, a hub to which the player returns several times, a level in an aquatic-themed area, and a final area with a boss fight. In each level, the player follows a linear path through a **series of fights and closed arenas**.
+
+![Banner](Gif/Teaser.gif)
 
 ## What I Did
 
@@ -64,21 +70,19 @@ _Here's the state of the architecture after I restructured and optimized it._
 
 I was also able to set up a save and respawn system based on checkpoints. This involved creating a Level Manager using Game Instance and Game Save to store player data and the state of game elements that could be “destroyed” by the player, in order to make them appear (or not) in the level after a respawn.
 
-Finally, I was able to work with artists to implement feedbacks designed to clarify gameplay or AI behavior, such as animations (using Animation Blueprints) for the player avatar and monsters, as well as user interface elements (using Widget Blueprint) animated in real time. To this end, I also programmed camera effects (shakes, post-processing, etc.).
+Finally, I worked with artists to implement **feedbacks** designed to clarify gameplay or AI behavior, such as **animations** (using Animation Blueprints) for the player avatar and monsters, as well as user **interface elements** (using Widget Blueprint) animated in real time. To this end, I also programmed camera effects (shakes, post-processing, etc.).
 
-_Here's an example of feedbacks implemented in the game._
+*Here's how the user interface reacts in real-time during fights.* ![Feedbacks](Gif/Feedback.gif)
 
 ### __Documents, Presentations & 2D Art__
 
 In order to present our concept, research and work, we frequently had to create documents and slide presentations. My job was to __establish the structure of the presentation, the chaptering, the argumentation and the layout of the elements__ in the documents/presentations. The presentation involved __creating templates__ using Google Slides.
 
-Here's a example of a presentation we made, during [Vertical Slice milestone](https://docs.google.com/presentation/d/1kQIxMveelr9L9FkTKPtwQgkKWRK9zZWhQdfQXfuI8n4/edit?usp=sharing).
+Here's a example of a presentation we made, during [Vertical Slice milestone](https://docs.google.com/presentation/d/1gudoRr8atrqiuqD4mv-PJ6hm-G9xmyxSLG8myliN2h8/edit?usp=sharing).
 
 I was able to lend a hand to a member of our group for the 2D creation of the [Game Design Document](Documents/Tinykinesis_GameConceptDocument.pdf), using Photoshop to create a thematic skin.
 
-I also invested time in creating interface visuals with Photoshop and Illustrator (health bar, skill slots, texts, etc.).
-
-_Here's a screenshoot of a gameview where we can see the UI I created._
+I also invested time in creating the **user interfaces** you can see above, with Photoshop and Illustrator (health bar, skill slots, texts, etc.).
 
 ### __Project organization__
 
