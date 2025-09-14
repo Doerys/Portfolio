@@ -88,7 +88,7 @@ In __Game Design__, it was a challenging project in terms of __adaptations and r
 In __Gameplay Programming__, I learned a lot about Unreal Engine and became familiar with a __wide range of features and tools__, including Characters and Controllers, Widget Blueprints, Input Actions, Actor Components, Event Dispatchers, Blueprint Interfaces, Structures, Data Tables, Data Assets and Animation Blueprints. I also understood the logic of Behavior Trees and Blackboards, even though I wasn't in charge of AI programming. I dabbled a little in Materials and Niagara Systems, to understand the basics, but I wasn't in charge of that either. Finally, in terms of thinking about programming, I __developed my programming architecture skills__ a lot.
 
 ## More About This Projet
-[Here's the Trailer of the Game](https://www.youtube.com/watch?v=YJSgHxhS7qo&ab_channel=Barnabus)
+[Here's the Trailer of the Game](https://www.youtube.com/watch?v=YJSgHxhS7qo&ab_channel=Barnabus)  
 [Itch.io page if you want to test this game!](https://barna-bus.itch.io/tinykinesis)
 
 ---
