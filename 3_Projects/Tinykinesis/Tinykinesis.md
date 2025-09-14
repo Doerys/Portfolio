@@ -4,8 +4,10 @@
 > Student Project - 2024 / 2025 - 10 Months  
 > Video Game project - Team of 10  
 > Unreal Engine 5.4 - Blueprints    
-> Head Game Designer, Gameplay Programmer
-> Awarded **Best Game Design** - ESMA's Grand Prix 2025
+> Head Game Designer, Gameplay Programmer  
+> Awarded Best Game Design - ESMA's Grand Prix 2025
+
+![Banner](Pictures/Banner.jpg)
 
 ## Context
 
