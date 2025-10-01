@@ -19,6 +19,10 @@ I think about a project not from just one angle, but from many. I would define m
 
 Finally, I'm comfortable doing **R&D in a specific sector, genre or type of gameplay functionality**, which enables me to assess the interest of a project and the relevance of an idea in relation to an existing market or competing games. My affinity for **action-adventure, FPS and narrative games** (you can take a look at [my favorite game licenses here](../4_ThingsILike/ThingsILike.md)) gives me a good expertise and understanding of these games, their design and the offerings on the market.
 
+### Documentations
+
+Creating concise and understandable documentation is a skill I have learned to develop through my projects. I also have a [portfolio](https://github.com/Doerys/Portfolio_GameDesignDocuments/blob/main/GameDesign_Projects.md) dedicated to this aspect, if you want to reach more.
+
 ### Prototyping
 
 To ensure the feasibility of a game mechanism or function, I'm not afraid to go to the engine and **iterate through prototyping**. My knowledge of programming is an asset that I like to combine with my game design skills, so that I can **associate theoretical reflection with concrete creation**.
@@ -99,19 +103,19 @@ The systematic use of Github in each of my school and Game Jam projects has left
 
 I have a good appreciation of Level Design and Level Art. Through school projects and game jams, I've been able to improve my level-building skills, and I now systematically apply an **iterative process** to make the flow and understanding of these levels as **instinctive and fun** as possible. 
 
-To find out more, take a look at [this page summarizing my biggest Level Design projects](../3_Projects/Others/Level%20Design_Projects/LevelDesign_Projects.md).
+To find out more, take a look at [this page summarizing my biggest Level Design projects](https://github.com/Doerys/Portfolio_LevelDesign/blob/main/LevelDesign_Projects.md).
 
 ### Storytelling / Worldbuilding
 
 Before I became professionally interested in video games, my ambitions were focused on **writing and storytelling**. As a result, I have a keen interest in the narrative aspect of games (not just video games, but other media such as T-RPGs), particularly in **worldbuilding** and the feeling of **living a story** through an interactive medium. 
 
-This is reflected in some of my projects, which you can discover on [this page where I show some details about Narrative Projects](../3_Projects/Others/Storytelling%20Worldbuilding_Projects/StorytellingWorldbuilding_Projects.md).
+This is reflected in some of my projects, which you can discover on [this page where I show some details about Narrative Projects](https://github.com/Doerys/Portfolio_Storytelling/blob/main/StorytellingWorldbuilding_Projects.md).
 
 ### Art & Video Softwares
 
 Even if my professional ambitions don't lie in visual creation, I have a **good knowledge of art and image culture** (I have a degree in cinema and audiovisual studies). I also have a good knowledge of **Graphic Design software tools** (Photoshop, Illustrator, Indesign) to produce visuals convincing enough to translate my ideas into a first draft, whether by **producing an illustration or factorized drawing**, by **retouching a picture** or by using **photobashing**.
 
-If you're interested, you can take a look at my [2D creations on this page](../3_Projects/Others/2D%20Art_Projects/2DArt_Projects.md).
+If you're interested, you can take a look at my [Art creations on this page](https://github.com/Doerys/Portfolio_Art/blob/main/Art_Projects.md).
 
 I've also mastered the basics of **Premiere Pro** for video editing, which I've used to make short films or 2D animation / stop motion, as well as a good understanding of **Audacity** for mixing and audio recording.
 
