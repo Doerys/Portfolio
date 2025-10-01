@@ -22,10 +22,10 @@ I'm used to playing a leadership role or an important part in team projects. My 
 
 ## Portfolios covering of my others specialties:
 
-- [Game Design Documents](https://github.com/Doerys/Portfolio_GameDesignDocuments)  
-- [Level Design Projects](https://github.com/Doerys/Portfolio_LevelDesign)  
-- [Art Projects](https://github.com/Doerys/Portfolio_Art)  
-- [Storytelling and Worldbuilding Projects](https://github.com/Doerys/Portfolio_Storytelling)  
+- [Game Design Documents](https://github.com/Doerys/Portfolio_GameDesignDocuments/blob/main/GameDesign_Projects.md)  
+- [Level Design Projects](https://github.com/Doerys/Portfolio_LevelDesign/blob/main/LevelDesign_Projects.md)  
+- [Art Projects](https://github.com/Doerys/Portfolio_Art/blob/main/Art_Projects.md)  
+- [Storytelling and Worldbuilding Projects](https://github.com/Doerys/Portfolio_Storytelling/blob/main/StorytellingWorldbuilding_Projects.md)  
 
 ## Contact me
 You can reach me if you want:
