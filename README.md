@@ -2,7 +2,7 @@
 Welcome on my Github page!
 
 ## I'm Yann Chatila
-I'm a student specializing in **Game Design and Programming**. 
+I'm a video game developer specializing in **Game Design and Programming**. 
 
 I started creating my own video games projects in **2021** alongside **Cinema and audiovisual studies** in Paris. I then embarked on a 3-year course in video games at ESMA, located in Rennes, France.
 
@@ -22,7 +22,7 @@ I'm used to playing a leadership role or an important part in team projects. My 
 
 ## Portfolios covering of my others specialties:
 
-- [Game Design Projects]()  
+- [Game Design Documents]()  
 - [Level Design Projects]()  
 - [2D Art Projects]()  
 - [Storytelling and Worldbuilding Projects]()  
