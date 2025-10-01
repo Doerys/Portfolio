@@ -46,9 +46,9 @@ This is a **solo project** that I thought it would be interesting to present, in
 
 If you're interested, I've also carried out a number of projects that have enabled me to acquire skills in other disciplines:
 
-- [Game Design Project](Others/GameDesign_Projects/GameDesign_Projects.md)  
+- [Game Design Project](Others/GameDesign_Projects/GameDesign_Projects.md)
+- [Level Design Projects](Others/Level%20Design_Projects/LevelDesign_Projects.md)  
 - [2D Art Projects](Others/2D%20Art_Projects/2DArt_Projects.md)  
-- [Level Design Projects](Others/Level%20Design_Projects/LevelDesign_Projects.md)
 - [Storytelling & Worldbuilding Projects](Others/Storytelling%20Worldbuilding_Projects/StorytellingWorldbuilding_Projects.md)
 
 ---
